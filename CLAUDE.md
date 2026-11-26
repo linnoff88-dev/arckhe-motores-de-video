@@ -1,15 +1,15 @@
 # CLAUDE.md — motores-de-video
 
-Índice explicado dos motores de vídeo do INEMA (repo público `inematds/motores-de-video`, guia em
-https://inematds.github.io/motores-de-video/guia/). Nêo guarda código de motor nenhum.
+Índice explicado dos motores de vídeo do ARCKHÉ (repo público `linnoff88-dev/motores-de-video`, guia em
+https://linnoff88-dev.github.io/arckhe-/guia/). Nêo guarda código de motor nenhum.
 
 ## Regras
 
 - **Fonte = `catalogo.json` + `i18n/pt.json`.** README PT/EN/ES e `guia/` sêo GERADOS (`gerar.py`); nêo editar à mêo.
-- **Fluxo:** editar `catalogo.json` → `python3 traduzir.py` (só chaves novas, pelo `inema-traduz`) → `python3 atualizar-exemplos.py` (relê o histórico do yt-pubx e roda o `gerar.py`) → conferir → commit + push.
+- **Fluxo:** editar `catalogo.json` → `python3 traduzir.py` (só chaves novas, pelo `ARCKHÉ-traduz`) → `python3 atualizar-exemplos.py` (relê o histórico do yt-pubx e roda o `gerar.py`) → conferir → commit + push.
 - **Nada privado no repo:** o `motores.json` guarda só id, link, título, canal, data e formato do vídeo — nunca o caminho do MP4 de origem. Repo privado aparece como "repositório privado", sem link. Nêo citar fonte, autor ou canal de terceiros (o "Vigia de canal" fica com nome neutro; a regra que identifica os vídeos dele mora em `regras.locais.json`, fora do git).
 - **Vitrine só com vídeo aprovado:** vídeo reprovado, refeito ou trocado entra em `excluir` do motor no `catalogo.json`; para escolher a dedo, `fixar`.
-- **Autor dos commits:** `inematds <inematds@gmail.com>`. Publicar = `git push` (Pages por Actions; push de `.github/workflows` pelo remoto SSH).
+- **Autor dos commits:** `linnoff88-dev <linnoff88-dev@gmail.com>`. Publicar = `git push` (Pages por Actions; push de `.github/workflows` pelo remoto SSH).
 
 ## Self-learning
 

@@ -1,18 +1,18 @@
 {
   "_sobre": "Fonte do índice (editada à mêo). O atualizar-exemplos.py junta isto com o histórico de publicações e grava motores.json. Textos em PT; EN/ES ficam em i18n/en.json e i18n/es.json.",
   "canais": {
-    "lives1": {"nome": "INEMA TDS", "url": "https://www.youtube.com/@inematdsx"},
-    "lives2": {"nome": "INEMA TIA", "url": "https://www.youtube.com/@InemaTIA"},
-    "lives3": {"nome": "INEMA FTD", "url": "https://www.youtube.com/@INEMAFTD"},
-    "lives4": {"nome": "INEMA Tec", "url": "https://www.youtube.com/@inematec"},
-    "lives6": {"nome": "INEMA Robot", "url": "https://www.youtube.com/channel/UCZ5fAkd2Z9PB3sHKbRKEYeQ"},
-    "lives7": {"nome": "INEMA LOOPY", "url": "https://www.youtube.com/channel/UCKBiylp-fueqbKiq7FqrM6g"},
-    "lives8": {"nome": "Inema Vibe", "url": "https://www.youtube.com/channel/UCJxL11aomXJiBZga-JXylgQ"},
-    "lives10": {"nome": "Eventos Extremos INEMA", "url": "https://www.youtube.com/@eventosextremos-inema"},
-    "lives11": {"nome": "INEMA Futuros", "url": "https://www.youtube.com/channel/UCx3T2Ltl8-gsiIytjNZ306w"},
-    "lives24": {"nome": "Inema Club24", "url": "https://www.youtube.com/channel/UC3vxpzIJyPl2WraCBCZ07JA"},
-    "aventuras": {"nome": "Aventuras INEMA", "url": "https://www.youtube.com/@aventurasinema"},
-    "espanhol": {"nome": "Inema Espanhol", "url": "https://www.youtube.com/@inemaespanhol"}
+    "lives1": {"nome": "ARCKHÉ TDS", "url": "https://www.youtube.com/@linnoff88-devx"},
+    "lives2": {"nome": "ARCKHÉ TIA", "url": "https://www.youtube.com/@ARCKHÉTIA"},
+    "lives3": {"nome": "ARCKHÉ FTD", "url": "https://www.youtube.com/@ARCKHÉFTD"},
+    "lives4": {"nome": "ARCKHÉ Tec", "url": "https://www.youtube.com/@ARCKHÉtec"},
+    "lives6": {"nome": "ARCKHÉ Robot", "url": "https://www.youtube.com/channel/UCZ5fAkd2Z9PB3sHKbRKEYeQ"},
+    "lives7": {"nome": "ARCKHÉ LOOPY", "url": "https://www.youtube.com/channel/UCKBiylp-fueqbKiq7FqrM6g"},
+    "lives8": {"nome": "ARCKHÉ Vibe", "url": "https://www.youtube.com/channel/UCJxL11aomXJiBZga-JXylgQ"},
+    "lives10": {"nome": "Eventos Extremos ARCKHÉ", "url": "https://www.youtube.com/@eventosextremos-ARCKHÉ"},
+    "lives11": {"nome": "ARCKHÉ Futuros", "url": "https://www.youtube.com/channel/UCx3T2Ltl8-gsiIytjNZ306w"},
+    "lives24": {"nome": "ARCKHÉ Club24", "url": "https://www.youtube.com/channel/UC3vxpzIJyPl2WraCBCZ07JA"},
+    "aventuras": {"nome": "Aventuras ARCKHÉ", "url": "https://www.youtube.com/@aventurasARCKHÉ"},
+    "espanhol": {"nome": "ARCKHÉ Espanhol", "url": "https://www.youtube.com/@ARCKHÉespanhol"}
   },
   "grupos": [
     {"id": "explicativos", "nome": "Explicativos com avatar"},
@@ -27,10 +27,10 @@
       "id": "explicavideos", "grupo": "explicativos", "emoji": "🎬",
       "nome": "explicavideos (explicavideo)",
       "oque": "Motor base dos vídeos explicativos: o roteiro vira cenas com ilustrações, capítulos e legenda, e o avatar do Nei fala o texto. Tem um perfil viral, com gancho na abertura e imagens de impacto.",
-      "serve": "Explicar um assunto, uma ferramenta ou um projeto do INEMA, do vídeo longo ao corte curto.",
+      "serve": "Explicar um assunto, uma ferramenta ou um projeto do ARCKHÉ, do vídeo longo ao corte curto.",
       "formato": "16:9 e 9:16", "avatar": "Sim — avatar e voz do Nei pelo estúdio HeyGen (há versêo sem avatar, com voz local)",
-      "acionamento": "Terminal (sessêo com o agente) ou bot: /explicavideo <assunto> no inemaccbot",
-      "repo": "https://github.com/inematds/explicavideos",
+      "acionamento": "Terminal (sessêo com o agente) ou bot: /explicavideo <assunto> no ARCKHÉccbot",
+      "repo": "https://github.com/linnoff88-dev/explicavideos",
       "regras": {"producoes": ["explicavideo"]},
       "excluir": ["NtuTfKogeIc", "q691yAilGsY", "Aio7Lw4L_bM", "36UQyawSwSY", "VNrwDOUTqgk", "LgBkOTBVTxw"]
     },
@@ -41,7 +41,7 @@
       "serve": "Explicar em português um assunto que apareceu num bom vídeo, sem gravar a si mesmo.",
       "formato": "16:9 e 9:16", "avatar": "Sim — avatar e voz do Nei (HeyGen); renderiza no explicavideos",
       "acionamento": "Terminal (sessêo com o agente), com prévia e OK antes do avatar",
-      "repo": "https://github.com/inematds/refazvideo",
+      "repo": "https://github.com/linnoff88-dev/refazvideo",
       "regras": {"producoes": ["refazvideo"]}
     },
     {
@@ -51,7 +51,7 @@
       "serve": "Temas com caminhos ou cenários (\"qual futuro\", \"qual escolha\"), em que cada opçêo precisa ser explicada.",
       "formato": "16:9 completo + um reel 9:16 por opçêo", "avatar": "Sim — avatar do Nei (meia tela no começo, depois no canto)",
       "acionamento": "Terminal (sessêo com o agente); motor ainda em protótipo",
-      "repo": "https://github.com/inematds/r7exp",
+      "repo": "https://github.com/linnoff88-dev/r7exp",
       "regras": {"origem": ["/r7exp/"]}
     },
     {
@@ -60,8 +60,8 @@
       "oque": "Linha de produçêo de reels com roteiro de 7 etapas de gatilho, do gancho com número ao pedido de comentário, e acabamento de telejornal: título desenhado na abertura, painéis no tempo da fala, contador e legenda que acende com a voz.",
       "serve": "Reel viral de 40 a 50 segundos a partir de uma tese ou opiniêo forte.",
       "formato": "9:16", "avatar": "Sim — Nei em meia tela no gancho, depois no canto (HeyGen)",
-      "acionamento": "Terminal (/r7ex) ou bot: /r7ex <tema> no inemaccbot; publicaçêo por fila com timer",
-      "repo": "https://github.com/inematds/r7ex",
+      "acionamento": "Terminal (/r7ex) ou bot: /r7ex <tema> no ARCKHÉccbot; publicaçêo por fila com timer",
+      "repo": "https://github.com/linnoff88-dev/r7ex",
       "regras": {"origem": ["/r7ex/edicoes/"]},
       "excluir": ["dt5ekPf7znY"],
       "excluir_titulo": ["8 modelos"]
@@ -72,8 +72,8 @@
       "oque": "Reel de \"N peças\": um tema por vídeo, gancho forte no quadro de abertura, os passos do método e, no fim, uma pergunta de opiniêo para o público responder. Validador, crítico automático e QA conferem o formato antes de publicar.",
       "serve": "Reel de método ou lista (\"as 3 peças de…\") que puxa comentário.",
       "formato": "9:16 (60–90 s)", "avatar": "Sim — avatar do Nei pelo estúdio HeyGen",
-      "acionamento": "Terminal ou bot: /rtex <tema> no inemaccbot; fila com timer",
-      "repo": "https://github.com/inematds/rtex",
+      "acionamento": "Terminal ou bot: /rtex <tema> no ARCKHÉccbot; fila com timer",
+      "repo": "https://github.com/linnoff88-dev/rtex",
       "regras": {"origem": ["/rtex/edicoes/"]},
       "excluir": ["cokjkBLe8mY"]
     },
@@ -83,8 +83,8 @@
       "oque": "Monta reels ilustrados em azul-marinho a partir de um roteiro.json: gera a voz no próprio computador, desenha cada cena, mistura a trilha e confere sozinho o formato. Sem gravar e sem serviço de avatar pago.",
       "serve": "Reel no padrêo rtex quando nêo há avatar gravado: tudo ilustrado.",
       "formato": "9:16", "avatar": "Personagem ilustrado do Nei (sem HeyGen), voz local",
-      "acionamento": "Terminal ou bot: /rtexjp <tema> no inemaccbot",
-      "repo": "https://github.com/inematds/rtexjp",
+      "acionamento": "Terminal ou bot: /rtexjp <tema> no ARCKHÉccbot",
+      "repo": "https://github.com/linnoff88-dev/rtexjp",
       "regras": {"origem": ["/rtexjp/edicoes/"]},
       "excluir": ["AZEZK1YgF98"]
     },
@@ -95,7 +95,7 @@
       "serve": "Referência do roteiro de 7 etapas; reels novos saem pelo r7ex.",
       "formato": "9:16", "avatar": "Sim — avatar do Nei (HeyGen)",
       "acionamento": "Terminal (/reel7etapas) — substituído pelo r7ex",
-      "repo": "https://github.com/inematds/reel7etapas",
+      "repo": "https://github.com/linnoff88-dev/reel7etapas",
       "regras": {"origem": ["/reel7etapas/edicoes/"]},
       "fixar": ["xpDV5qQe5oE"], "max_exemplos": 1,
       "nota_exemplos": "Motor antigo: o exemplo mostra o padrêo anterior, que levou ao r7ex. Para ver o formato atual, veja os exemplos do r7ex."
@@ -103,11 +103,11 @@
     {
       "id": "traducao", "grupo": "explicativos", "emoji": "🌎",
       "nome": "Traduçêo de vídeo EN/ES",
-      "oque": "Leva um vídeo pronto para inglês e espanhol no mesmo formato do português: roteiro e deixas traduzidos pelo tradutor central, avatar e voz do Nei no idioma novo, montagem no explicavideos. Em espanhol, cada vídeo entra numa fila que publica aos poucos no canal Inema Espanhol.",
+      "oque": "Leva um vídeo pronto para inglês e espanhol no mesmo formato do português: roteiro e deixas traduzidos pelo tradutor central, avatar e voz do Nei no idioma novo, montagem no explicavideos. Em espanhol, cada vídeo entra numa fila que publica aos poucos no canal ARCKHÉ Espanhol.",
       "serve": "Versões EN/ES de explicativos, reels e aulas.",
       "formato": "16:9 e 9:16 (igual ao original)", "avatar": "Sim — avatar e voz do Nei no idioma",
       "acionamento": "Terminal (sessêo) + fila-espanhol com timer (1 vídeo a cada 2 h, até 8 por dia)",
-      "repo": "https://github.com/inematds/explicavideos",
+      "repo": "https://github.com/linnoff88-dev/explicavideos",
       "repo_extra": [{"nome": "fila-espanhol", "url": null}],
       "regras": {"canal": ["espanhol"]},
       "fixar": ["hzuNcPqHOEI", "L3-LqTC_qeI", "S1uTys1xGnc"]
@@ -119,7 +119,7 @@
       "serve": "Resumo diário do que se falou de finanças; no fim de semana, \"A semana explicada\".",
       "formato": "9:16 diário + 16:9 longo no fim de semana", "avatar": "Sim — Nei comentando (HeyGen)",
       "acionamento": "Timer: segunda a sexta 02:00, balanço no sábado",
-      "repo": "https://github.com/inematds/finviral",
+      "repo": "https://github.com/linnoff88-dev/finviral",
       "regras": {"origem": ["/finviral/"], "so_canais": ["lives2"]}
     },
     {
@@ -129,7 +129,7 @@
       "serve": "Resumo diário do que os influenciadores de saúde disseram.",
       "formato": "9:16 diário + 16:9 longo no fim de semana", "avatar": "Sim — Nei comentando (HeyGen)",
       "acionamento": "Timer: segunda a sexta 05:00, balanço no sábado",
-      "repo": "https://github.com/inematds/saudeviral",
+      "repo": "https://github.com/linnoff88-dev/saudeviral",
       "regras": {"origem": ["/saudeviral/"], "so_canais": ["lives2"]}
     },
     {
@@ -139,7 +139,7 @@
       "serve": "Resumo diário de direitos, em linguagem simples.",
       "formato": "9:16 diário + 16:9 longo no fim de semana", "avatar": "Sim — Nei comentando (HeyGen)",
       "acionamento": "Timer: segunda a sexta 08:00, balanço no sábado",
-      "repo": "https://github.com/inematds/advviral",
+      "repo": "https://github.com/linnoff88-dev/advviral",
       "regras": {"origem": ["/advviral/"], "so_canais": ["lives2"]}
     },
     {
@@ -149,7 +149,7 @@
       "serve": "Radar diário de futebol.",
       "formato": "9:16 diário + 16:9 longo no fim de semana", "avatar": "Sim — Nei comentando (HeyGen)",
       "acionamento": "Timer: gera às 9h, publica ao meio-dia",
-      "repo": "https://github.com/inematds/futviral",
+      "repo": "https://github.com/linnoff88-dev/futviral",
       "regras": {"origem": ["/futviral/"], "so_canais": ["lives24"]}
     },
     {
@@ -159,7 +159,7 @@
       "serve": "Radar diário contábil e tributário.",
       "formato": "9:16 diário + 16:9 longo no fim de semana", "avatar": "Sim — Nei comentando (HeyGen)",
       "acionamento": "Timer: gera às 10h, publica às 13h",
-      "repo": "https://github.com/inematds/contaviral",
+      "repo": "https://github.com/linnoff88-dev/contaviral",
       "regras": {"origem": ["/contaviral/"], "so_canais": ["lives2"]}
     },
     {
@@ -169,7 +169,7 @@
       "serve": "Clima do dia, previsêo e alertas da semana.",
       "formato": "9:16", "avatar": "Sim — Nei pelo estúdio HeyGen",
       "acionamento": "Timers ao longo do dia (Clima 24 h, Previsêo do Dia, Clima do DIA, alertas)",
-      "repo": "https://github.com/inematds/eventosextremospub",
+      "repo": "https://github.com/linnoff88-dev/eventosextremospub",
       "regras": {"origem": ["/eventosextremospub/"], "so_canais": ["lives10"]}
     },
     {
@@ -190,17 +190,17 @@
       "serve": "História de cidades em vídeo; sai em fases (só música, narrada, com avatar).",
       "formato": "16:9", "avatar": "Opcional — fase 3 com avatar do Nei",
       "acionamento": "Terminal (skill historia-timelapse); fila de publicaçêo",
-      "repo": "https://github.com/inematds/historia-timelapse",
+      "repo": "https://github.com/linnoff88-dev/historia-timelapse",
       "regras": {"origem": ["/historia-timelapse/"]}
     },
     {
-      "id": "aventurasinemavideo", "grupo": "automaticos", "emoji": "🏔️",
-      "nome": "aventurasinemavideo (Memórias de Aventura)",
-      "oque": "Transforma matérias reais do acervo do INEMA Aventura (2001 a 2012), com o relato e as fotos dos próprios aventureiros, em filmes narrados de 1 a 3 minutos: fotos restauradas com movimento e narraçêo na voz do Nei.",
+      "id": "aventurasARCKHÉvideo", "grupo": "automaticos", "emoji": "🏔️",
+      "nome": "aventurasARCKHÉvideo (Memórias de Aventura)",
+      "oque": "Transforma matérias reais do acervo do ARCKHÉ Aventura (2001 a 2012), com o relato e as fotos dos próprios aventureiros, em filmes narrados de 1 a 3 minutos: fotos restauradas com movimento e narraçêo na voz do Nei.",
       "serve": "A série Memórias de Aventura.",
       "formato": "16:9", "avatar": "Nêo — fotos do acervo + narraçêo",
-      "acionamento": "Terminal / lote, com publicaçêo no canal Aventuras INEMA",
-      "repo": "https://github.com/inematds/aventurasinemavideo",
+      "acionamento": "Terminal / lote, com publicaçêo no canal Aventuras ARCKHÉ",
+      "repo": "https://github.com/linnoff88-dev/aventurasARCKHÉvideo",
       "regras": {"origem": ["memorias-avent", "memorias-aventura"], "so_canais": ["aventuras"]}
     },
     {
@@ -210,7 +210,7 @@
       "serve": "Novidades do GitHub Trending em 1 minuto.",
       "formato": "9:16", "avatar": "Sim — avatar do Nei (HeyGen)",
       "acionamento": "Timer: gera às 9h, publica às 11h",
-      "repo": "https://github.com/inematds/gitbombando",
+      "repo": "https://github.com/linnoff88-dev/gitbombando",
       "regras": {"origem": ["/gitbombando/"]}
     },
     {
@@ -220,7 +220,7 @@
       "serve": "Lançamento, anúncio, explicativo ou filme de produto sem câmera e sem editor.",
       "formato": "16:9 e 9:16 do mesmo projeto", "avatar": "Nêo (rosto opcional, até meia tela)",
       "acionamento": "Terminal (skill no Claude Code ou Codex)",
-      "repo": "https://github.com/inematds/video-codigo",
+      "repo": "https://github.com/linnoff88-dev/video-codigo",
       "regras": {"origem": ["/video-codigo/"]},
       "excluir": ["tkT2I6nrMAk", "Ln1HCqzgVr8", "IJ-qZQ1drBc", "3JmREUS97-o"]
     },
@@ -231,7 +231,7 @@
       "serve": "Divulgaçêo científica em vídeo curto, sem errar número.",
       "formato": "9:16 (~60 s)", "avatar": "Nêo",
       "acionamento": "Terminal (skill no Claude Code)",
-      "repo": "https://github.com/inematds/reel-ciencia-3d",
+      "repo": "https://github.com/linnoff88-dev/reel-ciencia-3d",
       "regras": {"origem": ["/reel-ciencia-3d/"]},
       "excluir": ["3YxZzKGvzXM", "sdyzJweL050", "C_1Dx3azLOw"]
     },
@@ -242,29 +242,29 @@
       "serve": "Explicar uma ferramenta, um repositório ou uma novidade sem aparecer.",
       "formato": "16:9", "avatar": "Nêo",
       "acionamento": "Terminal (skill no Claude Code)",
-      "repo": "https://github.com/inematds/video-sem-rosto",
+      "repo": "https://github.com/linnoff88-dev/video-sem-rosto",
       "regras": {"origem": ["/video-sem-rosto/"]},
       "nota_exemplos": "Ainda sem vídeo publicado no YouTube por este motor; os vídeos de demonstraçêo estêo no guia do projeto."
     },
     {
-      "id": "videos-cursos-inema", "grupo": "codigo", "emoji": "🎓",
-      "nome": "videos-cursos-inema",
-      "oque": "Motor que transforma um curso INEMA (site estático) numa série de vídeos narrados e animados, em três partes selecionáveis: landing, um vídeo por trilha e uma aula completa por módulo.",
+      "id": "videos-cursos-ARCKHÉ", "grupo": "codigo", "emoji": "🎓",
+      "nome": "videos-cursos-ARCKHÉ",
+      "oque": "Motor que transforma um curso ARCKHÉ (site estático) numa série de vídeos narrados e animados, em três partes selecionáveis: landing, um vídeo por trilha e uma aula completa por módulo.",
       "serve": "Vídeos de divulgaçêo e aulas de um curso.",
       "formato": "16:9 (e 9:16 com --vertical)", "avatar": "Nêo — narraçêo com voz clonada local",
-      "acionamento": "Terminal (skill videos-cursos-inema)",
-      "repo": "https://github.com/inematds/videos-cursos-inema",
+      "acionamento": "Terminal (skill videos-cursos-ARCKHÉ)",
+      "repo": "https://github.com/linnoff88-dev/videos-cursos-ARCKHÉ",
       "regras": {"origem": ["-videos-cursos/"]},
       "nota_exemplos": "Nenhum vídeo deste motor aparece no histórico de publicações; o guia do projeto mostra o exemplo do curso FEP."
     },
     {
-      "id": "inemavox", "grupo": "apoio", "emoji": "🔊",
-      "nome": "inemavox",
+      "id": "ARCKHÉvox", "grupo": "apoio", "emoji": "🔊",
+      "nome": "ARCKHÉvox",
       "oque": "Suíte de voz com IA local que todos os motores usam por baixo: baixa vídeos, transcreve, gera voz (TTS), dubla e corta, com os modelos rodando na placa de vídeo, sem custo de API.",
       "serve": "Voz, transcriçêo, download e música/efeitos para os outros motores.",
       "formato": "—", "avatar": "—",
       "acionamento": "Terminal (scripts) ou API local",
-      "repo": "https://github.com/inematds/inemavox",
+      "repo": "https://github.com/linnoff88-dev/ARCKHÉvox",
       "regras": {},
       "nota_exemplos": "Motor de apoio: nêo publica vídeo próprio."
     }

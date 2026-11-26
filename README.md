@@ -6,17 +6,17 @@
 </div>
 
 
-[![motores-de-video](guia/assets/banner.jpg)](https://inematds.github.io/motores-de-video/guia/)
+[![motores-de-video](guia/assets/banner.jpg)](https://linnoff88-dev.github.io/arckhe-/guia/)
 
 **ê°Å¸â¡Â§ê°Å¸â¡Â· [PortuguêÂªs](README.md) êÂ· ê°Å¸â¡Âºê°Å¸â¡Â¸ [English](README.en.md) êÂ· ê°Å¸â¡Âªê°Å¸â¡Â¸ [EspaêÂ±ol](README.es.md)**
 
 ## O que êÂ©
 
-Este repositêÂ³rio êÂ© um êÂ­ndice: ele explica, em uma pêÂ¡gina, cada motor que o INEMA usa para produzir vêÂ­deos ê¢â¬â explicativos, reels, radares diêÂ¡rios, vêÂ­deos feitos em cêÂ³digo. Serve para quem quer saber qual motor usar, ou estudar um deles. Cada motor tem o que faz, para que tipo de vêÂ­deo serve, o formato, se usa avatar, como êÂ© acionado, o link do cêÂ³digo e atêÂ© 3 vêÂ­deos reais publicados no YouTube. Para ler, nêÂ£o precisa instalar nada.
+Este repositêÂ³rio êÂ© um êÂ­ndice: ele explica, em uma pêÂ¡gina, cada motor que o ARCKHÉ usa para produzir vêÂ­deos ê¢â¬â explicativos, reels, radares diêÂ¡rios, vêÂ­deos feitos em cêÂ³digo. Serve para quem quer saber qual motor usar, ou estudar um deles. Cada motor tem o que faz, para que tipo de vêÂ­deo serve, o formato, se usa avatar, como êÂ© acionado, o link do cêÂ³digo e atêÂ© 3 vêÂ­deos reais publicados no YouTube. Para ler, nêÂ£o precisa instalar nada.
 
 ## ê°Å¸ââ Guia de uso
 
-PêÂ¡gina completa (motores em cartêÂµes, com os vêÂ­deos): **https://inematds.github.io/motores-de-video/guia/**
+PêÂ¡gina completa (motores em cartêÂµes, com os vêÂ­deos): **https://linnoff88-dev.github.io/arckhe-/guia/**
 
 ## Os motores
 
@@ -28,15 +28,15 @@ Exemplos atualizados em 09/11/2026. Os links vêÂªm do histêÂ³rico de p
 
 Motor base dos vêÂ­deos explicativos: o roteiro vira cenas com ilustraêÂ§êÂµes, capêÂ­tulos e legenda, e o avatar do Nei fala o texto. Tem um perfil viral, com gancho na abertura e imagens de impacto.
 
-- **Serve para:** Explicar um assunto, uma ferramenta ou um projeto do INEMA, do vêÂ­deo longo ao corte curto.
+- **Serve para:** Explicar um assunto, uma ferramenta ou um projeto do ARCKHÉ, do vêÂ­deo longo ao corte curto.
 - **Formato:** 16:9 e 9:16
 - **Avatar:** Sim ê¢â¬â avatar e voz do Nei pelo estêÂºdio HeyGen (hêÂ¡ versêÂ£o sem avatar, com voz local)
-- **Como êÂ© acionado:** Terminal (sessêÂ£o com o agente) ou bot: /explicavideo <assunto> no inemaccbot
-- **RepositêÂ³rio:** [github.com/inematds/explicavideos](https://github.com/inematds/explicavideos)
+- **Como êÂ© acionado:** Terminal (sessêÂ£o com o agente) ou bot: /explicavideo <assunto> no ARCKHÉccbot
+- **RepositêÂ³rio:** [github.com/linnoff88-dev/explicavideos](https://github.com/linnoff88-dev/explicavideos)
 - **Exemplos publicados:**
-  - [EsqueêÂ§a todas as IAs: chegou o novo rei ê¢â¬â Claude Fable 5.2 nos nêÂºmeros: custo, esforêÂ§o #shorts](https://www.youtube.com/watch?v=cgZSgxjXaWs) ê¢â¬â INEMA Tec, 09/11/2026, 9:16
-  - [Seu time de bots pela assinatura que vocêÂª jêÂ¡ paga: 193 de 193 testes, sem API (kit grêÂ¡tis)](https://www.youtube.com/watch?v=lA9BHfoVZDo) ê¢â¬â INEMA FTD, 09/11/2026, 16:9
-  - [Do chat ao agente em 4 degraus: aprenda do zero, ainda em 2026, sem programar #shorts](https://www.youtube.com/watch?v=FSf-jUT_n6U) ê¢â¬â INEMA TDS, 09/11/2026, 9:16
+  - [EsqueêÂ§a todas as IAs: chegou o novo rei ê¢â¬â Claude Fable 5.2 nos nêÂºmeros: custo, esforêÂ§o #shorts](https://www.youtube.com/watch?v=cgZSgxjXaWs) ê¢â¬â ARCKHÉ Tec, 09/11/2026, 9:16
+  - [Seu time de bots pela assinatura que vocêÂª jêÂ¡ paga: 193 de 193 testes, sem API (kit grêÂ¡tis)](https://www.youtube.com/watch?v=lA9BHfoVZDo) ê¢â¬â ARCKHÉ FTD, 09/11/2026, 16:9
+  - [Do chat ao agente em 4 degraus: aprenda do zero, ainda em 2026, sem programar #shorts](https://www.youtube.com/watch?v=FSf-jUT_n6U) ê¢â¬â ARCKHÉ TDS, 09/11/2026, 9:16
 
 #### ê°Å¸âÂ refazvideo
 
@@ -46,11 +46,11 @@ Passo a passo para um agente de IA refazer um vêÂ­deo de referêÂªncia 
 - **Formato:** 16:9 e 9:16
 - **Avatar:** Sim ê¢â¬â avatar e voz do Nei (HeyGen); renderiza no explicavideos
 - **Como êÂ© acionado:** Terminal (sessêÂ£o com o agente), com prêÂ©via e OK antes do avatar
-- **RepositêÂ³rio:** [github.com/inematds/refazvideo](https://github.com/inematds/refazvideo)
+- **RepositêÂ³rio:** [github.com/linnoff88-dev/refazvideo](https://github.com/linnoff88-dev/refazvideo)
 - **Exemplos publicados:**
-  - [IA sem censura: como funciona, onde usar e quanto custa](https://www.youtube.com/watch?v=ZsnxZmxcOSQ) ê¢â¬â INEMA Tec, 09/11/2026, 16:9
-  - [Como criar agentes de IA que aprendem com os prêÂ³prios erros](https://www.youtube.com/watch?v=bnLvmYcP4PI) ê¢â¬â INEMA FTD, 08/11/2026, 16:9
-  - [MovieFlow: uma frase vira um filme (13 modelos de IA) #shorts](https://www.youtube.com/watch?v=WizdRuVKl1U) ê¢â¬â INEMA FTD, 06/11/2026, 9:16
+  - [IA sem censura: como funciona, onde usar e quanto custa](https://www.youtube.com/watch?v=ZsnxZmxcOSQ) ê¢â¬â ARCKHÉ Tec, 09/11/2026, 16:9
+  - [Como criar agentes de IA que aprendem com os prêÂ³prios erros](https://www.youtube.com/watch?v=bnLvmYcP4PI) ê¢â¬â ARCKHÉ FTD, 08/11/2026, 16:9
+  - [MovieFlow: uma frase vira um filme (13 modelos de IA) #shorts](https://www.youtube.com/watch?v=WizdRuVKl1U) ê¢â¬â ARCKHÉ FTD, 06/11/2026, 9:16
 
 #### ê°Å¸âÂºê¯Â¸Â r7exp
 
@@ -60,25 +60,25 @@ Explicativo visual que ensina opêÂ§êÂµes: um grêÂ¡fico que funcio
 - **Formato:** 16:9 completo + um reel 9:16 por opêÂ§êÂ£o
 - **Avatar:** Sim ê¢â¬â avatar do Nei (meia tela no comeêÂ§o, depois no canto)
 - **Como êÂ© acionado:** Terminal (sessêÂ£o com o agente); motor ainda em protêÂ³tipo
-- **RepositêÂ³rio:** [github.com/inematds/r7exp](https://github.com/inematds/r7exp)
+- **RepositêÂ³rio:** [github.com/linnoff88-dev/r7exp](https://github.com/linnoff88-dev/r7exp)
 - **Exemplos publicados:**
-  - [A IA descobre. E vocêÂª? #shorts](https://www.youtube.com/watch?v=0aE_BstdJkY) ê¢â¬â INEMA Futuros, 04/11/2026, 9:16
-  - [A IA resolveu 100 anos de ciêÂªncia? As 3 descobertas explicadas no mapa](https://www.youtube.com/watch?v=PJIsN8MMHVE) ê¢â¬â INEMA Futuros, 29/10/2026, 16:9
-  - [PHP2Shell: seu site estêÂ¡ exposto? Veja como se proteger](https://www.youtube.com/watch?v=YkqpuErgrqE) ê¢â¬â INEMA TDS, 23/10/2026, 16:9
+  - [A IA descobre. E vocêÂª? #shorts](https://www.youtube.com/watch?v=0aE_BstdJkY) ê¢â¬â ARCKHÉ Futuros, 04/11/2026, 9:16
+  - [A IA resolveu 100 anos de ciêÂªncia? As 3 descobertas explicadas no mapa](https://www.youtube.com/watch?v=PJIsN8MMHVE) ê¢â¬â ARCKHÉ Futuros, 29/10/2026, 16:9
+  - [PHP2Shell: seu site estêÂ¡ exposto? Veja como se proteger](https://www.youtube.com/watch?v=YkqpuErgrqE) ê¢â¬â ARCKHÉ TDS, 23/10/2026, 16:9
 
 #### ê°Å¸ÅÅ½ TraduêÂ§êÂ£o de vêÂ­deo EN/ES
 
-Leva um vêÂ­deo pronto para inglêÂªs e espanhol no mesmo formato do portuguêÂªs: roteiro e deixas traduzidos pelo tradutor central, avatar e voz do Nei no idioma novo, montagem no explicavideos. Em espanhol, cada vêÂ­deo entra numa fila que publica aos poucos no canal Inema Espanhol.
+Leva um vêÂ­deo pronto para inglêÂªs e espanhol no mesmo formato do portuguêÂªs: roteiro e deixas traduzidos pelo tradutor central, avatar e voz do Nei no idioma novo, montagem no explicavideos. Em espanhol, cada vêÂ­deo entra numa fila que publica aos poucos no canal ARCKHÉ Espanhol.
 
 - **Serve para:** VersêÂµes EN/ES de explicativos, reels e aulas.
 - **Formato:** 16:9 e 9:16 (igual ao original)
 - **Avatar:** Sim ê¢â¬â avatar e voz do Nei no idioma
 - **Como êÂ© acionado:** Terminal (sessêÂ£o) + fila-espanhol com timer (1 vêÂ­deo a cada 2 h, atêÂ© 8 por dia)
-- **RepositêÂ³rio:** [github.com/inematds/explicavideos](https://github.com/inematds/explicavideos) êÂ· fila-espanhol: repositêÂ³rio privado
+- **RepositêÂ³rio:** [github.com/linnoff88-dev/explicavideos](https://github.com/linnoff88-dev/explicavideos) êÂ· fila-espanhol: repositêÂ³rio privado
 - **Exemplos publicados:**
-  - [REA: tu agente de IA sin trabas para adaptar programas en tu computadora](https://www.youtube.com/watch?v=S1uTys1xGnc) ê¢â¬â Inema Espanhol, 17/10/2026, 16:9
-  - [IA Cultivada: por quêÂ© tu IA repite errores y cêÂ³mo hacer que mejore](https://www.youtube.com/watch?v=hzuNcPqHOEI) ê¢â¬â Inema Espanhol, 14/10/2026, 16:9
-  - [Codex + Claude: uno planifica, el otro critica #Shorts](https://www.youtube.com/watch?v=L3-LqTC_qeI) ê¢â¬â Inema Espanhol, 14/10/2026, 9:16
+  - [REA: tu agente de IA sin trabas para adaptar programas en tu computadora](https://www.youtube.com/watch?v=S1uTys1xGnc) ê¢â¬â ARCKHÉ Espanhol, 17/10/2026, 16:9
+  - [IA Cultivada: por quêÂ© tu IA repite errores y cêÂ³mo hacer que mejore](https://www.youtube.com/watch?v=hzuNcPqHOEI) ê¢â¬â ARCKHÉ Espanhol, 14/10/2026, 16:9
+  - [Codex + Claude: uno planifica, el otro critica #Shorts](https://www.youtube.com/watch?v=L3-LqTC_qeI) ê¢â¬â ARCKHÉ Espanhol, 14/10/2026, 9:16
 
 ### Reels virais 9:16
 
@@ -89,12 +89,12 @@ Linha de produêÂ§êÂ£o de reels com roteiro de 7 etapas de gatilho, do 
 - **Serve para:** Reel viral de 40 a 50 segundos a partir de uma tese ou opiniêÂ£o forte.
 - **Formato:** 9:16
 - **Avatar:** Sim ê¢â¬â Nei em meia tela no gancho, depois no canto (HeyGen)
-- **Como êÂ© acionado:** Terminal (/r7ex) ou bot: /r7ex <tema> no inemaccbot; publicaêÂ§êÂ£o por fila com timer
-- **RepositêÂ³rio:** [github.com/inematds/r7ex](https://github.com/inematds/r7ex)
+- **Como êÂ© acionado:** Terminal (/r7ex) ou bot: /r7ex <tema> no ARCKHÉccbot; publicaêÂ§êÂ£o por fila com timer
+- **RepositêÂ³rio:** [github.com/linnoff88-dev/r7ex](https://github.com/linnoff88-dev/r7ex)
 - **Exemplos publicados:**
-  - [Para de criar app de IA: os 13 negêÂ³cios com IA do pior ao melhor #shorts](https://www.youtube.com/watch?v=9xtleXd3Kaw) ê¢â¬â INEMA FTD, 08/11/2026, 9:16
-  - [Seu prompt nêÂ£o êÂ© cadeado: 5 travas para o agente de IA #shorts](https://www.youtube.com/watch?v=CxjmcmF-GWg) ê¢â¬â INEMA Tec, 08/11/2026, 9:16
-  - [Ex-chefe do Google avisa: NêÆO estamos prontos para a IA #shorts](https://www.youtube.com/watch?v=0VdykM91Gzw) ê¢â¬â INEMA Futuros, 08/11/2026, 9:16
+  - [Para de criar app de IA: os 13 negêÂ³cios com IA do pior ao melhor #shorts](https://www.youtube.com/watch?v=9xtleXd3Kaw) ê¢â¬â ARCKHÉ FTD, 08/11/2026, 9:16
+  - [Seu prompt nêÂ£o êÂ© cadeado: 5 travas para o agente de IA #shorts](https://www.youtube.com/watch?v=CxjmcmF-GWg) ê¢â¬â ARCKHÉ Tec, 08/11/2026, 9:16
+  - [Ex-chefe do Google avisa: NêÆO estamos prontos para a IA #shorts](https://www.youtube.com/watch?v=0VdykM91Gzw) ê¢â¬â ARCKHÉ Futuros, 08/11/2026, 9:16
 
 #### ê°Å¸Â§Â© rtex
 
@@ -103,12 +103,12 @@ Reel de "N peêÂ§as": um tema por vêÂ­deo, gancho forte no quadro de ab
 - **Serve para:** Reel de mêÂ©todo ou lista ("as 3 peêÂ§as deê¢â¬Â¦") que puxa comentêÂ¡rio.
 - **Formato:** 9:16 (60ê¢â¬â90 s)
 - **Avatar:** Sim ê¢â¬â avatar do Nei pelo estêÂºdio HeyGen
-- **Como êÂ© acionado:** Terminal ou bot: /rtex <tema> no inemaccbot; fila com timer
-- **RepositêÂ³rio:** [github.com/inematds/rtex](https://github.com/inematds/rtex)
+- **Como êÂ© acionado:** Terminal ou bot: /rtex <tema> no ARCKHÉccbot; fila com timer
+- **RepositêÂ³rio:** [github.com/linnoff88-dev/rtex](https://github.com/linnoff88-dev/rtex)
 - **Exemplos publicados:**
-  - [Seu design virou colagem: coloque critêÂ©rio antes do efeito #shorts](https://www.youtube.com/watch?v=DLPw-sI_TJI) ê¢â¬â INEMA FTD, 09/11/2026, 9:16
-  - [Pare de pedir slide assim pro Claude: 3 peêÂ§as pra ter a sua cara #shorts](https://www.youtube.com/watch?v=mz2WjAoNwok) ê¢â¬â INEMA Tec, 06/11/2026, 9:16
-  - [Pare de disparar em volume para lista fria: prospecte por sinal com IA #shorts](https://www.youtube.com/watch?v=dydHb8BkkJk) ê¢â¬â INEMA TDS, 05/11/2026, 9:16
+  - [Seu design virou colagem: coloque critêÂ©rio antes do efeito #shorts](https://www.youtube.com/watch?v=DLPw-sI_TJI) ê¢â¬â ARCKHÉ FTD, 09/11/2026, 9:16
+  - [Pare de pedir slide assim pro Claude: 3 peêÂ§as pra ter a sua cara #shorts](https://www.youtube.com/watch?v=mz2WjAoNwok) ê¢â¬â ARCKHÉ Tec, 06/11/2026, 9:16
+  - [Pare de disparar em volume para lista fria: prospecte por sinal com IA #shorts](https://www.youtube.com/watch?v=dydHb8BkkJk) ê¢â¬â ARCKHÉ TDS, 05/11/2026, 9:16
 
 #### ê°Å¸âÅê¯Â¸Â rtexjp
 
@@ -117,11 +117,11 @@ Monta reels ilustrados em azul-marinho a partir de um roteiro.json: gera a voz n
 - **Serve para:** Reel no padrêÂ£o rtex quando nêÂ£o hêÂ¡ avatar gravado: tudo ilustrado.
 - **Formato:** 9:16
 - **Avatar:** Personagem ilustrado do Nei (sem HeyGen), voz local
-- **Como êÂ© acionado:** Terminal ou bot: /rtexjp <tema> no inemaccbot
-- **RepositêÂ³rio:** [github.com/inematds/rtexjp](https://github.com/inematds/rtexjp)
+- **Como êÂ© acionado:** Terminal ou bot: /rtexjp <tema> no ARCKHÉccbot
+- **RepositêÂ³rio:** [github.com/linnoff88-dev/rtexjp](https://github.com/linnoff88-dev/rtexjp)
 - **Exemplos publicados:**
-  - [VocêÂª paga 200 dêÂ³lares. A IA custa atêÂ© 5 mil. #shorts](https://www.youtube.com/watch?v=UKqxVXTDVfI) ê¢â¬â INEMA TDS, 05/11/2026, 9:16
-  - [E se a China fechar a torneira da IA grêÂ¡tis? #shorts](https://www.youtube.com/watch?v=78O5l2Coiv4) ê¢â¬â INEMA TDS, 05/11/2026, 9:16
+  - [VocêÂª paga 200 dêÂ³lares. A IA custa atêÂ© 5 mil. #shorts](https://www.youtube.com/watch?v=UKqxVXTDVfI) ê¢â¬â ARCKHÉ TDS, 05/11/2026, 9:16
+  - [E se a China fechar a torneira da IA grêÂ¡tis? #shorts](https://www.youtube.com/watch?v=78O5l2Coiv4) ê¢â¬â ARCKHÉ TDS, 05/11/2026, 9:16
 - Por enquanto, sêÂ³ 2 exemplos encontrados no histêÂ³rico.
 
 #### 7ê¯Â¸Âê¢ÆÂ£ reel7etapas (antecessor do r7ex)
@@ -132,9 +132,9 @@ O primeiro modelo de reel em 7 etapas de gatilho (gancho, desejo, medo, facilida
 - **Formato:** 9:16
 - **Avatar:** Sim ê¢â¬â avatar do Nei (HeyGen)
 - **Como êÂ© acionado:** Terminal (/reel7etapas) ê¢â¬â substituêÂ­do pelo r7ex
-- **RepositêÂ³rio:** [github.com/inematds/reel7etapas](https://github.com/inematds/reel7etapas)
+- **RepositêÂ³rio:** [github.com/linnoff88-dev/reel7etapas](https://github.com/linnoff88-dev/reel7etapas)
 - **Exemplos publicados:**
-  - [Vem aêÂ­ demissêÂ£o em massa de gerentes? A IA vai cobrar preparo #shorts](https://www.youtube.com/watch?v=xpDV5qQe5oE) ê¢â¬â INEMA FTD, 18/10/2026, 9:16
+  - [Vem aêÂ­ demissêÂ£o em massa de gerentes? A IA vai cobrar preparo #shorts](https://www.youtube.com/watch?v=xpDV5qQe5oE) ê¢â¬â ARCKHÉ FTD, 18/10/2026, 9:16
 - Motor antigo: o exemplo mostra o padrêÂ£o anterior, que levou ao r7ex. Para ver o formato atual, veja os exemplos do r7ex.
 
 ### Radares diêÂ¡rios automêÂ¡ticos
@@ -147,11 +147,11 @@ Assiste por transcriêÂ§êÂ£o aos vêÂ­deos dos maiores influenciado
 - **Formato:** 9:16 diêÂ¡rio + 16:9 longo no fim de semana
 - **Avatar:** Sim ê¢â¬â Nei comentando (HeyGen)
 - **Como êÂ© acionado:** Timer: segunda a sexta 02:00, balanêÂ§o no sêÂ¡bado
-- **RepositêÂ³rio:** [github.com/inematds/finviral](https://github.com/inematds/finviral)
+- **RepositêÂ³rio:** [github.com/linnoff88-dev/finviral](https://github.com/linnoff88-dev/finviral)
 - **Exemplos publicados:**
-  - [US$ 3 trilhêÂµes somem de Wall Street: a bolha da IA vai estourar?](https://www.youtube.com/watch?v=lVnzzTdXz9I) ê¢â¬â INEMA TIA, 09/11/2026, 9:16
-  - [Selic parada em 13,75%: o que esperar atêÂ© dezembro, explicado](https://www.youtube.com/watch?v=pZ2ZCs_Udyo) ê¢â¬â INEMA TIA, 08/11/2026, 16:9
-  - [Financiamento de imêÂ³vel vai de 11% a 15% apêÂ³s a eleiêÂ§êÂ£o: o que muda](https://www.youtube.com/watch?v=4x2j7Xbq5ng) ê¢â¬â INEMA TIA, 06/11/2026, 9:16
+  - [US$ 3 trilhêÂµes somem de Wall Street: a bolha da IA vai estourar?](https://www.youtube.com/watch?v=lVnzzTdXz9I) ê¢â¬â ARCKHÉ TIA, 09/11/2026, 9:16
+  - [Selic parada em 13,75%: o que esperar atêÂ© dezembro, explicado](https://www.youtube.com/watch?v=pZ2ZCs_Udyo) ê¢â¬â ARCKHÉ TIA, 08/11/2026, 16:9
+  - [Financiamento de imêÂ³vel vai de 11% a 15% apêÂ³s a eleiêÂ§êÂ£o: o que muda](https://www.youtube.com/watch?v=4x2j7Xbq5ng) ê¢â¬â ARCKHÉ TIA, 06/11/2026, 9:16
 
 #### ê°Å¸Â©Âº saudeviral
 
@@ -161,11 +161,11 @@ O mesmo radar para mêÂ©dicos, nutricionistas e psicêÂ³logos de maior a
 - **Formato:** 9:16 diêÂ¡rio + 16:9 longo no fim de semana
 - **Avatar:** Sim ê¢â¬â Nei comentando (HeyGen)
 - **Como êÂ© acionado:** Timer: segunda a sexta 05:00, balanêÂ§o no sêÂ¡bado
-- **RepositêÂ³rio:** [github.com/inematds/saudeviral](https://github.com/inematds/saudeviral)
+- **RepositêÂ³rio:** [github.com/linnoff88-dev/saudeviral](https://github.com/linnoff88-dev/saudeviral)
 - **Exemplos publicados:**
-  - [Seu tipo sanguêÂ­neo muda o risco de cêÂ¢ncer? O radar da saêÂºde](https://www.youtube.com/watch?v=fN8iKWuTbmg) ê¢â¬â INEMA TIA, 09/11/2026, 9:16
-  - [Borderline, luto do vivo e 1.800 degraus | A semana explicada](https://www.youtube.com/watch?v=xgvdLWqTtQw) ê¢â¬â INEMA TIA, 08/11/2026, 16:9
-  - [Luto de quem estêÂ¡ vivo, borderline e a gema do ovo: a semana da saêÂºde](https://www.youtube.com/watch?v=BC4_4tpDUYE) ê¢â¬â INEMA TIA, 08/11/2026, 9:16
+  - [Seu tipo sanguêÂ­neo muda o risco de cêÂ¢ncer? O radar da saêÂºde](https://www.youtube.com/watch?v=fN8iKWuTbmg) ê¢â¬â ARCKHÉ TIA, 09/11/2026, 9:16
+  - [Borderline, luto do vivo e 1.800 degraus | A semana explicada](https://www.youtube.com/watch?v=xgvdLWqTtQw) ê¢â¬â ARCKHÉ TIA, 08/11/2026, 16:9
+  - [Luto de quem estêÂ¡ vivo, borderline e a gema do ovo: a semana da saêÂºde](https://www.youtube.com/watch?v=BC4_4tpDUYE) ê¢â¬â ARCKHÉ TIA, 08/11/2026, 9:16
 
 #### ê¢Å¡âê¯Â¸Â advviral
 
@@ -175,11 +175,11 @@ Radar do que os maiores advogados do YouTube disseram sobre direitos: consumidor
 - **Formato:** 9:16 diêÂ¡rio + 16:9 longo no fim de semana
 - **Avatar:** Sim ê¢â¬â Nei comentando (HeyGen)
 - **Como êÂ© acionado:** Timer: segunda a sexta 08:00, balanêÂ§o no sêÂ¡bado
-- **RepositêÂ³rio:** [github.com/inematds/advviral](https://github.com/inematds/advviral)
+- **RepositêÂ³rio:** [github.com/linnoff88-dev/advviral](https://github.com/linnoff88-dev/advviral)
 - **Exemplos publicados:**
-  - [Processos contra o INSS mais que dobraram: por que tanta gente vai êÂ  JustiêÂ§a](https://www.youtube.com/watch?v=TE9-6B4NbxM) ê¢â¬â INEMA TIA, 09/11/2026, 9:16
-  - [Ataque hacker de US$ 49 mi êÂ  cripto: quem paga? | A semana explicada](https://www.youtube.com/watch?v=glv2cyDDECc) ê¢â¬â INEMA TIA, 08/11/2026, 16:9
-  - [Aposentadoria com 15 anos paga sêÂ³ 60% da mêÂ©dia, e mais 4 direitos](https://www.youtube.com/watch?v=pB4iDtByzyc) ê¢â¬â INEMA TIA, 07/11/2026, 16:9
+  - [Processos contra o INSS mais que dobraram: por que tanta gente vai êÂ  JustiêÂ§a](https://www.youtube.com/watch?v=TE9-6B4NbxM) ê¢â¬â ARCKHÉ TIA, 09/11/2026, 9:16
+  - [Ataque hacker de US$ 49 mi êÂ  cripto: quem paga? | A semana explicada](https://www.youtube.com/watch?v=glv2cyDDECc) ê¢â¬â ARCKHÉ TIA, 08/11/2026, 16:9
+  - [Aposentadoria com 15 anos paga sêÂ³ 60% da mêÂ©dia, e mais 4 direitos](https://www.youtube.com/watch?v=pB4iDtByzyc) ê¢â¬â ARCKHÉ TIA, 07/11/2026, 16:9
 
 #### ê¢Å¡Â½ futviral
 
@@ -189,11 +189,11 @@ Resumo do que os 10 maiores canais de futebol disseram: BrasileirêÂ£o, fute
 - **Formato:** 9:16 diêÂ¡rio + 16:9 longo no fim de semana
 - **Avatar:** Sim ê¢â¬â Nei comentando (HeyGen)
 - **Como êÂ© acionado:** Timer: gera êÂ s 9h, publica ao meio-dia
-- **RepositêÂ³rio:** [github.com/inematds/futviral](https://github.com/inematds/futviral)
+- **RepositêÂ³rio:** [github.com/linnoff88-dev/futviral](https://github.com/linnoff88-dev/futviral)
 - **Exemplos publicados:**
-  - [GrêÂªmio na zona de rebaixamento e na final de R$ 78 milhêÂµes](https://www.youtube.com/watch?v=7VM2auexshA) ê¢â¬â Inema Club24, 09/11/2026, 9:16
-  - [FUTVIRAL: Flamengo pode ser campeêÂ£o no Allianz e Vasco decide hoje](https://www.youtube.com/watch?v=d-J-JeG8dTU) ê¢â¬â Inema Club24, 08/11/2026, 9:16
-  - [Flamengo a 2 vitêÂ³rias do têÂ­tulo no Allianz? A semana explicada](https://www.youtube.com/watch?v=aVWqhfVehwA) ê¢â¬â Inema Club24, 08/11/2026, 16:9
+  - [GrêÂªmio na zona de rebaixamento e na final de R$ 78 milhêÂµes](https://www.youtube.com/watch?v=7VM2auexshA) ê¢â¬â ARCKHÉ Club24, 09/11/2026, 9:16
+  - [FUTVIRAL: Flamengo pode ser campeêÂ£o no Allianz e Vasco decide hoje](https://www.youtube.com/watch?v=d-J-JeG8dTU) ê¢â¬â ARCKHÉ Club24, 08/11/2026, 9:16
+  - [Flamengo a 2 vitêÂ³rias do têÂ­tulo no Allianz? A semana explicada](https://www.youtube.com/watch?v=aVWqhfVehwA) ê¢â¬â ARCKHÉ Club24, 08/11/2026, 16:9
 
 #### ê°Å¸Â§Â¾ contaviral
 
@@ -203,11 +203,11 @@ Resumo do que os 10 maiores canais de contabilidade e tributos disseram: leis e 
 - **Formato:** 9:16 diêÂ¡rio + 16:9 longo no fim de semana
 - **Avatar:** Sim ê¢â¬â Nei comentando (HeyGen)
 - **Como êÂ© acionado:** Timer: gera êÂ s 10h, publica êÂ s 13h
-- **RepositêÂ³rio:** [github.com/inematds/contaviral](https://github.com/inematds/contaviral)
+- **RepositêÂ³rio:** [github.com/linnoff88-dev/contaviral](https://github.com/linnoff88-dev/contaviral)
 - **Exemplos publicados:**
-  - [PerdêÂ£o do MEI: quem parcelou pode parar? E o Seletivo sêÂ³ em fevereiro](https://www.youtube.com/watch?v=0EG5d9CgNLo) ê¢â¬â INEMA TIA, 09/11/2026, 9:16
-  - [CBS a 11,34%? A alêÂ­quota que assustou e o que mais mudou na semana](https://www.youtube.com/watch?v=noBpqjKgdNQ) ê¢â¬â INEMA TIA, 08/11/2026, 9:16
-  - [CBS de 11,34%, inflaêÂ§êÂ£o e perdêÂ£o do MEI: a semana contêÂ¡bil explicada](https://www.youtube.com/watch?v=qsYlEy48vaY) ê¢â¬â INEMA TIA, 08/11/2026, 16:9
+  - [PerdêÂ£o do MEI: quem parcelou pode parar? E o Seletivo sêÂ³ em fevereiro](https://www.youtube.com/watch?v=0EG5d9CgNLo) ê¢â¬â ARCKHÉ TIA, 09/11/2026, 9:16
+  - [CBS a 11,34%? A alêÂ­quota que assustou e o que mais mudou na semana](https://www.youtube.com/watch?v=noBpqjKgdNQ) ê¢â¬â ARCKHÉ TIA, 08/11/2026, 9:16
+  - [CBS de 11,34%, inflaêÂ§êÂ£o e perdêÂ£o do MEI: a semana contêÂ¡bil explicada](https://www.youtube.com/watch?v=qsYlEy48vaY) ê¢â¬â ARCKHÉ TIA, 08/11/2026, 16:9
 
 ### Outras linhas e sêÂ©ries
 
@@ -219,11 +219,11 @@ Transforma alertas de tempo severo num vêÂ­deo de "sala de crise": baixa da
 - **Formato:** 9:16
 - **Avatar:** Sim ê¢â¬â Nei pelo estêÂºdio HeyGen
 - **Como êÂ© acionado:** Timers ao longo do dia (Clima 24 h, PrevisêÂ£o do Dia, Clima do DIA, alertas)
-- **RepositêÂ³rio:** [github.com/inematds/eventosextremospub](https://github.com/inematds/eventosextremospub)
+- **RepositêÂ³rio:** [github.com/linnoff88-dev/eventosextremospub](https://github.com/linnoff88-dev/eventosextremospub)
 - **Exemplos publicados:**
-  - [O clima no mundo 09/11: duna cai sobre barracas em Gaza, enxurrada no Iraque #Shorts](https://www.youtube.com/watch?v=i11SMouAllE) ê¢â¬â Eventos Extremos INEMA, 09/11/2026, 9:16
-  - [654 cidades em alerta de tempestade amanhêÂ£ êÂ· Alerta da semana 09/11 #Shorts](https://www.youtube.com/watch?v=E8xsGn0xRXQ) ê¢â¬â Eventos Extremos INEMA, 09/11/2026, 9:16
-  - [Clima do dia 09/11: geada em novembro e 0,8 êÂ°C na serra catarinense #Shorts](https://www.youtube.com/watch?v=eN05Dt_jM0M) ê¢â¬â Eventos Extremos INEMA, 09/11/2026, 9:16
+  - [O clima no mundo 09/11: duna cai sobre barracas em Gaza, enxurrada no Iraque #Shorts](https://www.youtube.com/watch?v=i11SMouAllE) ê¢â¬â Eventos Extremos ARCKHÉ, 09/11/2026, 9:16
+  - [654 cidades em alerta de tempestade amanhêÂ£ êÂ· Alerta da semana 09/11 #Shorts](https://www.youtube.com/watch?v=E8xsGn0xRXQ) ê¢â¬â Eventos Extremos ARCKHÉ, 09/11/2026, 9:16
+  - [Clima do dia 09/11: geada em novembro e 0,8 êÂ°C na serra catarinense #Shorts](https://www.youtube.com/watch?v=eN05Dt_jM0M) ê¢â¬â Eventos Extremos ARCKHÉ, 09/11/2026, 9:16
 
 #### ê°Å¸ââ¬ Vigia de canal
 
@@ -235,9 +235,9 @@ Todo dia olha um canal de referêÂªncia; se houver vêÂ­deo novo, faz um
 - **Como êÂ© acionado:** Timer diêÂ¡rio êÂ s 14h
 - **RepositêÂ³rio:** repositêÂ³rio privado
 - **Exemplos publicados:**
-  - [5 palavras e o projeto no ar: por que o prompt curto funciona melhor #shorts](https://www.youtube.com/watch?v=Lw-LdQiyUpA) ê¢â¬â INEMA LOOPY, 07/11/2026, 9:16
-  - [Prompt de 5 palavras e zero cêÂ³digo: 7 hêÂ¡bitos de quem estêÂ¡ no topo da IA](https://www.youtube.com/watch?v=T6d1k8fgVHQ) ê¢â¬â INEMA LOOPY, 07/11/2026, 16:9
-  - [A IA desligou 25 apps da TV e achou um minerador escondido: 3 usos que quase ninguêÂ©m faz](https://www.youtube.com/watch?v=hageCcHOcLE) ê¢â¬â INEMA LOOPY, 06/11/2026, 9:16
+  - [5 palavras e o projeto no ar: por que o prompt curto funciona melhor #shorts](https://www.youtube.com/watch?v=Lw-LdQiyUpA) ê¢â¬â ARCKHÉ LOOPY, 07/11/2026, 9:16
+  - [Prompt de 5 palavras e zero cêÂ³digo: 7 hêÂ¡bitos de quem estêÂ¡ no topo da IA](https://www.youtube.com/watch?v=T6d1k8fgVHQ) ê¢â¬â ARCKHÉ LOOPY, 07/11/2026, 16:9
+  - [A IA desligou 25 apps da TV e achou um minerador escondido: 3 usos que quase ninguêÂ©m faz](https://www.youtube.com/watch?v=hageCcHOcLE) ê¢â¬â ARCKHÉ LOOPY, 06/11/2026, 9:16
 
 #### ê°Å¸Ââ¢ê¯Â¸Â historia-timelapse
 
@@ -247,25 +247,25 @@ Timelapse 3D da histêÂ³ria de uma cidade: relevo real, prêÂ©dios do Op
 - **Formato:** 16:9
 - **Avatar:** Opcional ê¢â¬â fase 3 com avatar do Nei
 - **Como êÂ© acionado:** Terminal (skill historia-timelapse); fila de publicaêÂ§êÂ£o
-- **RepositêÂ³rio:** [github.com/inematds/historia-timelapse](https://github.com/inematds/historia-timelapse)
+- **RepositêÂ³rio:** [github.com/linnoff88-dev/historia-timelapse](https://github.com/linnoff88-dev/historia-timelapse)
 - **Exemplos publicados:**
-  - [Porto Alegre de 1772 a 2024: 252 anos em um timelapse 3D com luz realista](https://www.youtube.com/watch?v=WzPVdaal1OY) ê¢â¬â Aventuras INEMA, 24/10/2026, 16:9
-  - [O centro de ItaguaêÂ­ em 3D: da Matriz de 1729 êÂ  cidade do futuro](https://www.youtube.com/watch?v=dalR1xWPFlE) ê¢â¬â Aventuras INEMA, 23/10/2026, 16:9
-  - [Rio de Janeiro de 1500 a 2024: 524 anos de histêÂ³ria em timelapse 3D](https://www.youtube.com/watch?v=Ij4KsTN_SB0) ê¢â¬â Aventuras INEMA, 23/10/2026, 16:9
+  - [Porto Alegre de 1772 a 2024: 252 anos em um timelapse 3D com luz realista](https://www.youtube.com/watch?v=WzPVdaal1OY) ê¢â¬â Aventuras ARCKHÉ, 24/10/2026, 16:9
+  - [O centro de ItaguaêÂ­ em 3D: da Matriz de 1729 êÂ  cidade do futuro](https://www.youtube.com/watch?v=dalR1xWPFlE) ê¢â¬â Aventuras ARCKHÉ, 23/10/2026, 16:9
+  - [Rio de Janeiro de 1500 a 2024: 524 anos de histêÂ³ria em timelapse 3D](https://www.youtube.com/watch?v=Ij4KsTN_SB0) ê¢â¬â Aventuras ARCKHÉ, 23/10/2026, 16:9
 
-#### ê°Å¸Ââê¯Â¸Â aventurasinemavideo (MemêÂ³rias de Aventura)
+#### ê°Å¸Ââê¯Â¸Â aventurasARCKHÉvideo (MemêÂ³rias de Aventura)
 
-Transforma matêÂ©rias reais do acervo do INEMA Aventura (2001 a 2012), com o relato e as fotos dos prêÂ³prios aventureiros, em filmes narrados de 1 a 3 minutos: fotos restauradas com movimento e narraêÂ§êÂ£o na voz do Nei.
+Transforma matêÂ©rias reais do acervo do ARCKHÉ Aventura (2001 a 2012), com o relato e as fotos dos prêÂ³prios aventureiros, em filmes narrados de 1 a 3 minutos: fotos restauradas com movimento e narraêÂ§êÂ£o na voz do Nei.
 
 - **Serve para:** A sêÂ©rie MemêÂ³rias de Aventura.
 - **Formato:** 16:9
 - **Avatar:** NêÂ£o ê¢â¬â fotos do acervo + narraêÂ§êÂ£o
-- **Como êÂ© acionado:** Terminal / lote, com publicaêÂ§êÂ£o no canal Aventuras INEMA
-- **RepositêÂ³rio:** [github.com/inematds/aventurasinemavideo](https://github.com/inematds/aventurasinemavideo)
+- **Como êÂ© acionado:** Terminal / lote, com publicaêÂ§êÂ£o no canal Aventuras ARCKHÉ
+- **RepositêÂ³rio:** [github.com/linnoff88-dev/aventurasARCKHÉvideo](https://github.com/linnoff88-dev/aventurasARCKHÉvideo)
 - **Exemplos publicados:**
-  - [Beto Monteiro vence sob calor de 35êÂ°C na FêÂ³rmula Truck | MemêÂ³rias de Aventura #166](https://www.youtube.com/watch?v=vjsykS5_9HU) ê¢â¬â Aventuras INEMA, 09/11/2026, 16:9
-  - [Allam Khodair: de 4êÂº a vencedor na Stock Car 2010 | MemêÂ³rias de Aventura #165](https://www.youtube.com/watch?v=PLPcwWAQgqE) ê¢â¬â Aventuras INEMA, 09/11/2026, 16:9
-  - [De Curitiba ao Alasca de moto: 34 mil km em 1997 | MemêÂ³rias de Aventura #164](https://www.youtube.com/watch?v=iqrvHLIET2Y) ê¢â¬â Aventuras INEMA, 09/11/2026, 16:9
+  - [Beto Monteiro vence sob calor de 35êÂ°C na FêÂ³rmula Truck | MemêÂ³rias de Aventura #166](https://www.youtube.com/watch?v=vjsykS5_9HU) ê¢â¬â Aventuras ARCKHÉ, 09/11/2026, 16:9
+  - [Allam Khodair: de 4êÂº a vencedor na Stock Car 2010 | MemêÂ³rias de Aventura #165](https://www.youtube.com/watch?v=PLPcwWAQgqE) ê¢â¬â Aventuras ARCKHÉ, 09/11/2026, 16:9
+  - [De Curitiba ao Alasca de moto: 34 mil km em 1997 | MemêÂ³rias de Aventura #164](https://www.youtube.com/watch?v=iqrvHLIET2Y) ê¢â¬â Aventuras ARCKHÉ, 09/11/2026, 16:9
 
 #### ê°Å¸âÂ¥ gitbombando
 
@@ -275,11 +275,11 @@ Todo dia faz o reel "Bombando no GitHub": os 10 projetos que mais ganharam estre
 - **Formato:** 9:16
 - **Avatar:** Sim ê¢â¬â avatar do Nei (HeyGen)
 - **Como êÂ© acionado:** Timer: gera êÂ s 9h, publica êÂ s 11h
-- **RepositêÂ³rio:** [github.com/inematds/gitbombando](https://github.com/inematds/gitbombando)
+- **RepositêÂ³rio:** [github.com/linnoff88-dev/gitbombando](https://github.com/linnoff88-dev/gitbombando)
 - **Exemplos publicados:**
-  - [CaêÂ§a-apelidos dispara ao topo do GitHub com +4.294 estrelas em um dia #Shorts](https://www.youtube.com/watch?v=W3Mds0R28_A) ê¢â¬â INEMA Tec, 09/11/2026, 9:16
-  - [Cloudflare segue no topo e um caêÂ§a-apelidos invade o pêÂ³dio: +2.085 estrelas no GitHub #Shorts](https://www.youtube.com/watch?v=vXoQJMnVT1w) ê¢â¬â INEMA Tec, 08/11/2026, 9:16
-  - [17.100 estrelas em 7 dias: o controle remoto de todas as IAs lidera o GitHub #Shorts](https://www.youtube.com/watch?v=3FXsmsRC0YA) ê¢â¬â INEMA Tec, 08/11/2026, 9:16
+  - [CaêÂ§a-apelidos dispara ao topo do GitHub com +4.294 estrelas em um dia #Shorts](https://www.youtube.com/watch?v=W3Mds0R28_A) ê¢â¬â ARCKHÉ Tec, 09/11/2026, 9:16
+  - [Cloudflare segue no topo e um caêÂ§a-apelidos invade o pêÂ³dio: +2.085 estrelas no GitHub #Shorts](https://www.youtube.com/watch?v=vXoQJMnVT1w) ê¢â¬â ARCKHÉ Tec, 08/11/2026, 9:16
+  - [17.100 estrelas em 7 dias: o controle remoto de todas as IAs lidera o GitHub #Shorts](https://www.youtube.com/watch?v=3FXsmsRC0YA) ê¢â¬â ARCKHÉ Tec, 08/11/2026, 9:16
 
 ### VêÂ­deo feito em cêÂ³digo (sem cêÂ¢mera)
 
@@ -291,10 +291,10 @@ Skill para o Claude Code e o Codex em que cada quadro êÂ© escrito em cê�
 - **Formato:** 16:9 e 9:16 do mesmo projeto
 - **Avatar:** NêÂ£o (rosto opcional, atêÂ© meia tela)
 - **Como êÂ© acionado:** Terminal (skill no Claude Code ou Codex)
-- **RepositêÂ³rio:** [github.com/inematds/video-codigo](https://github.com/inematds/video-codigo)
+- **RepositêÂ³rio:** [github.com/linnoff88-dev/video-codigo](https://github.com/linnoff88-dev/video-codigo)
 - **Exemplos publicados:**
-  - [Lead que espera esfria: do WhatsApp êÂ  venda em 1 minuto, feito com cêÂ³digo #Shorts](https://www.youtube.com/watch?v=4ILX66Hddtk) ê¢â¬â INEMA FTD, 06/11/2026, 9:16
-  - [Do WhatsApp êÂ  venda: filme de produto feito 100% com cêÂ³digo](https://www.youtube.com/watch?v=tWv1mEIK62c) ê¢â¬â INEMA FTD, 06/11/2026, 16:9
+  - [Lead que espera esfria: do WhatsApp êÂ  venda em 1 minuto, feito com cêÂ³digo #Shorts](https://www.youtube.com/watch?v=4ILX66Hddtk) ê¢â¬â ARCKHÉ FTD, 06/11/2026, 9:16
+  - [Do WhatsApp êÂ  venda: filme de produto feito 100% com cêÂ³digo](https://www.youtube.com/watch?v=tWv1mEIK62c) ê¢â¬â ARCKHÉ FTD, 06/11/2026, 16:9
 - Por enquanto, sêÂ³ 2 exemplos encontrados no histêÂ³rico.
 
 #### ê°Å¸ÂªÂ reel-ciencia-3d
@@ -305,11 +305,11 @@ Kit com skill para o Claude Code que transforma uma pergunta "E seê¢â¬Â¦
 - **Formato:** 9:16 (~60 s)
 - **Avatar:** NêÂ£o
 - **Como êÂ© acionado:** Terminal (skill no Claude Code)
-- **RepositêÂ³rio:** [github.com/inematds/reel-ciencia-3d](https://github.com/inematds/reel-ciencia-3d)
+- **RepositêÂ³rio:** [github.com/linnoff88-dev/reel-ciencia-3d](https://github.com/linnoff88-dev/reel-ciencia-3d)
 - **Exemplos publicados:**
-  - [E se o Sol sumisse agora? AnimaêÂ§êÂ£o 3D feita sêÂ³ com cêÂ³digo](https://www.youtube.com/watch?v=FDtJim4xHjY) ê¢â¬â INEMA FTD, 06/11/2026, 9:16
-  - [E se a Lua sumisse? AnimaêÂ§êÂ£o 3D feita sêÂ³ com cêÂ³digo](https://www.youtube.com/watch?v=nUsGrdZ-8MY) ê¢â¬â INEMA FTD, 06/11/2026, 9:16
-  - [E se a Terra nêÂ£o tivesse inclinaêÂ§êÂ£o? AnimaêÂ§êÂ£o 3D feita sêÂ³ com cêÂ³digo](https://www.youtube.com/watch?v=BmSeV6r0FdQ) ê¢â¬â INEMA FTD, 06/11/2026, 9:16
+  - [E se o Sol sumisse agora? AnimaêÂ§êÂ£o 3D feita sêÂ³ com cêÂ³digo](https://www.youtube.com/watch?v=FDtJim4xHjY) ê¢â¬â ARCKHÉ FTD, 06/11/2026, 9:16
+  - [E se a Lua sumisse? AnimaêÂ§êÂ£o 3D feita sêÂ³ com cêÂ³digo](https://www.youtube.com/watch?v=nUsGrdZ-8MY) ê¢â¬â ARCKHÉ FTD, 06/11/2026, 9:16
+  - [E se a Terra nêÂ£o tivesse inclinaêÂ§êÂ£o? AnimaêÂ§êÂ£o 3D feita sêÂ³ com cêÂ³digo](https://www.youtube.com/watch?v=BmSeV6r0FdQ) ê¢â¬â ARCKHÉ FTD, 06/11/2026, 9:16
 
 #### ê°Å¸Å½â¢ê¯Â¸Â video-sem-rosto
 
@@ -319,29 +319,29 @@ Kit que ensina o Claude Code a fazer explicativos na horizontal sem gravar nada:
 - **Formato:** 16:9
 - **Avatar:** NêÂ£o
 - **Como êÂ© acionado:** Terminal (skill no Claude Code)
-- **RepositêÂ³rio:** [github.com/inematds/video-sem-rosto](https://github.com/inematds/video-sem-rosto)
+- **RepositêÂ³rio:** [github.com/linnoff88-dev/video-sem-rosto](https://github.com/linnoff88-dev/video-sem-rosto)
 - Ainda sem vêÂ­deo publicado no YouTube por este motor; os vêÂ­deos de demonstraêÂ§êÂ£o estêÂ£o no guia do projeto.
 
-#### ê°Å¸Å½â videos-cursos-inema
+#### ê°Å¸Å½â videos-cursos-ARCKHÉ
 
-Motor que transforma um curso INEMA (site estêÂ¡tico) numa sêÂ©rie de vêÂ­deos narrados e animados, em trêÂªs partes selecionêÂ¡veis: landing, um vêÂ­deo por trilha e uma aula completa por mêÂ³dulo.
+Motor que transforma um curso ARCKHÉ (site estêÂ¡tico) numa sêÂ©rie de vêÂ­deos narrados e animados, em trêÂªs partes selecionêÂ¡veis: landing, um vêÂ­deo por trilha e uma aula completa por mêÂ³dulo.
 
 - **Serve para:** VêÂ­deos de divulgaêÂ§êÂ£o e aulas de um curso.
 - **Formato:** 16:9 (e 9:16 com --vertical)
 - **Avatar:** NêÂ£o ê¢â¬â narraêÂ§êÂ£o com voz clonada local
-- **Como êÂ© acionado:** Terminal (skill videos-cursos-inema)
-- **RepositêÂ³rio:** [github.com/inematds/videos-cursos-inema](https://github.com/inematds/videos-cursos-inema)
+- **Como êÂ© acionado:** Terminal (skill videos-cursos-ARCKHÉ)
+- **RepositêÂ³rio:** [github.com/linnoff88-dev/videos-cursos-ARCKHÉ](https://github.com/linnoff88-dev/videos-cursos-ARCKHÉ)
 - Nenhum vêÂ­deo deste motor aparece no histêÂ³rico de publicaêÂ§êÂµes; o guia do projeto mostra o exemplo do curso FEP.
 
 ### Apoio
 
-#### ê°Å¸âÅ  inemavox
+#### ê°Å¸âÅ  ARCKHÉvox
 
 SuêÂ­te de voz com IA local que todos os motores usam por baixo: baixa vêÂ­deos, transcreve, gera voz (TTS), dubla e corta, com os modelos rodando na placa de vêÂ­deo, sem custo de API.
 
 - **Serve para:** Voz, transcriêÂ§êÂ£o, download e mêÂºsica/efeitos para os outros motores.
 - **Como êÂ© acionado:** Terminal (scripts) ou API local
-- **RepositêÂ³rio:** [github.com/inematds/inemavox](https://github.com/inematds/inemavox)
+- **RepositêÂ³rio:** [github.com/linnoff88-dev/ARCKHÉvox](https://github.com/linnoff88-dev/ARCKHÉvox)
 - Motor de apoio: nêÂ£o publica vêÂ­deo prêÂ³prio.
 
 ## O processo, do inêÂ­cio ao fim
@@ -349,7 +349,7 @@ SuêÂ­te de voz com IA local que todos os motores usam por baixo: baixa vê�
 ê°Å¸Â§Â  = sessêÂ£o com o Nei êÂ· ê¢Å¡â¢ê¯Â¸Â = script (sem gastar tokens) êÂ· ê°Å¸Â¤â = `claude -p`
 
 1. ê°Å¸Â§Â  Motor novo ou mudanêÂ§a de texto: editar `catalogo.json` (texto em PT, regra que identifica os vêÂ­deos, `excluir`/`fixar`).
-2. ê¢Å¡â¢ê¯Â¸Â `python3 traduzir.py` ê¢â¬â traduz para EN/ES sêÂ³ as chaves novas, pelo tradutor central `inema-traduz`, e grava `i18n/en.json` e `i18n/es.json`.
+2. ê¢Å¡â¢ê¯Â¸Â `python3 traduzir.py` ê¢â¬â traduz para EN/ES sêÂ³ as chaves novas, pelo tradutor central `ARCKHÉ-traduz`, e grava `i18n/en.json` e `i18n/es.json`.
 3. ê¢Å¡â¢ê¯Â¸Â `python3 atualizar-exemplos.py` ê¢â¬â lêÂª o histêÂ³rico do yt-pubx (`~/.local/share/yt-pubx/historico.jsonl`) e, se existir, o registro de produêÂ§êÂµes (separa explicavideo de refazvideo); escolhe atêÂ© 3 vêÂ­deos pêÂºblicos, recentes e variados por motor e grava `motores.json`.
 4. ê¢Å¡â¢ê¯Â¸Â O mesmo comando roda `python3 gerar.py`, que regrava `README.md`, `README.en.md`, `README.es.md` e `guia/index.html`, `guia/en/`, `guia/es/` a partir do `motores.json`.
 5. ê°Å¸Â§Â  Conferir a pêÂ¡gina e o README; `git push`. O GitHub Pages (Actions) publica a partir da branch `main`.
@@ -364,12 +364,12 @@ Fora da mêÂ¡quina que publica os vêÂ­deos nêÂ£o existe o histê
 | `motores.json` | dados do êÂ­ndice gerados pelo script (motores + exemplos) |
 | `atualizar-exemplos.py` | relêÂª o histêÂ³rico e regrava o motores.json |
 | `gerar.py` | gera os READMEs e o guia a partir do motores.json |
-| `traduzir.py` | traduz os textos novos para EN/ES (inema-traduz) |
+| `traduzir.py` | traduz os textos novos para EN/ES (ARCKHÉ-traduz) |
 | `i18n/` | textos da pêÂ¡gina e dos motores em PT, EN e ES |
 
 ## LicenêÂ§a
 
-MIT. Projeto do [INEMA.CLUB](https://inema.club).
+MIT. Projeto do [ARCKHÉ AI](https://ARCKHÉ AI).
 
 ---
 

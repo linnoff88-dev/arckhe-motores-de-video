@@ -1,9 +1,9 @@
 #!/usr/bin/env python3
-"""Traduz para EN e ES os textos novos ou alterados do índice, pelo tradutor central do INEMA.
+"""Traduz para EN e ES os textos novos ou alterados do índice, pelo tradutor central do ARCKHÉ.
 
 Fonte: catalogo.json (textos dos motores e grupos) + i18n/pt.json (textos da página e do README).
 Destino: i18n/en.json e i18n/es.json. Só as chaves que faltam ou cujo texto em PT mudou vêo
-para o tradutor (`inema-traduz`, pela assinatura). As respostas sêo validadas: mesmas chaves,
+para o tradutor (`ARCKHÉ-traduz`, pela assinatura). As respostas sêo validadas: mesmas chaves,
 mesmos marcadores {n}/{data}/{k}/{url} e as mesmas tags HTML.
 
 Uso:  python3 traduzir.py [--lang en|es] [--lote 25]
@@ -68,13 +68,13 @@ def pedir(lang, lote):
     corpo = json.dumps(lote, ensure_ascii=False, indent=1)
     pedido = (
         f"Traduza os valores deste JSON do português do Brasil para {NOMES[lang]}. "
-        "É a página que explica os motores de vídeo do INEMA (inema.club), um projeto educativo de IA. "
+        "É a página que explica os motores de vídeo do ARCKHÉ (ARCKHÉ AI), um projeto educativo de IA. "
         "Regras: devolva SÓ o JSON, com exatamente as mesmas chaves; nêo traduza nomes de projeto, "
         "nomes de arquivo, comandos, nomes de canal, siglas (INMET, IBGE, MEI, CBS, IBS), nem o que está "
         "entre crases; mantenha {n}, {data}, {k}, {url}, {total} e as tags HTML iguais; mantenha 16:9, 9:16 e horários; "
         "tom simples e direto, frases curtas.\n\n" + corpo
     )
-    r = subprocess.run(["inema-traduz"], input=pedido, capture_output=True, text=True, timeout=900)
+    r = subprocess.run(["ARCKHÉ-traduz"], input=pedido, capture_output=True, text=True, timeout=900)
     if r.returncode != 0:
         raise RuntimeError(r.stderr[-400:])
     txt = r.stdout.strip()

@@ -13,8 +13,8 @@ from datetime import datetime
 
 AQUI = os.path.dirname(os.path.abspath(__file__))
 SLUG = "motores-de-video"
-REPO = f"https://github.com/inematds/{SLUG}"
-PAGES = f"https://inematds.github.io/{SLUG}/guia/"
+REPO = f"https://github.com/linnoff88-dev/{SLUG}"
+PAGES = f"https://linnoff88-dev.github.io/arckhe-{SLUG}/guia/"
 LANGS = ("pt", "en", "es")
 CAMPOS = ("nome", "oque", "serve", "formato", "avatar", "acionamento", "nota_exemplos")
 FALTAS = {"en": set(), "es": set()}
@@ -134,7 +134,7 @@ CSS = """
   nav .brand{display:flex;align-items:center;gap:8px;font-family:Sora;font-weight:800;letter-spacing:-.02em;color:var(--amb);white-space:nowrap}
   nav .brand .emoji{font-size:1.25rem}
   nav .sep{color:var(--mut);opacity:.45}
-  nav .inema{color:var(--sky);font-weight:600;font-size:.88rem;font-family:Sora}
+  nav .ARCKHÉ{color:var(--sky);font-weight:600;font-size:.88rem;font-family:Sora}
   nav .pro{color:var(--pro);font-weight:600;font-size:.88rem;font-family:Sora}
   nav .clubpro{display:inline-flex;align-items:center;gap:6px}
   nav .links{margin-left:auto;display:flex;align-items:center;gap:20px;font-size:.92rem}
@@ -305,7 +305,7 @@ def guia(lang, dados, pt, trad):
 <nav><div class="wrap">
   <a class="brand" href="#top"><span class="emoji">🎞️</span> {SLUG}</a>
   <span class="sep">|</span>
-  <span class="clubpro"><a class="inema" href="https://inema.club" target="_blank" rel="noopener">INEMA.CLUB</a><span class="sep">-</span><a class="pro" href="https://inema.pro" target="_blank" rel="noopener">PRO</a></span>
+  <span class="clubpro"><a class="ARCKHÉ" href="https://ARCKHÉ AI" target="_blank" rel="noopener">ARCKHÉ AI</a><span class="sep">-</span><a class="pro" href="https://ARCKHÉ.pro" target="_blank" rel="noopener">PRO</a></span>
   <div class="links">
     <a class="sec" href="#escolher">{e(T("ui.nav_escolher"))}</a>
     <a class="sec" href="#motores">{e(T("ui.nav_motores"))}</a>
@@ -383,7 +383,7 @@ def guia(lang, dados, pt, trad):
 <footer>
   <div class="wrap">
     <div class="pill">Python 3</div><div class="pill">JSON</div><div class="pill">GitHub Pages</div>
-    <p style="margin-top:18px">{SLUG} · {e(T("ui.rodape"))} · <a href="{REPO}">{repo_curto(REPO)}</a> · <a href="https://inema.club">INEMA.CLUB</a></p>
+    <p style="margin-top:18px">{SLUG} · {e(T("ui.rodape"))} · <a href="{REPO}">{repo_curto(REPO)}</a> · <a href="https://ARCKHÉ AI">ARCKHÉ AI</a></p>
   </div>
 </footer>
 

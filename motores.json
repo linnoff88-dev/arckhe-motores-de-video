@@ -3,52 +3,52 @@
   "fonte_exemplos": "histórico de publicações do yt-pubx (só vídeos públicos, nêo reconferidos no ar)",
   "canais": {
     "lives1": {
-      "nome": "INEMA TDS",
-      "url": "https://www.youtube.com/@inematdsx"
+      "nome": "ARCKHÉ TDS",
+      "url": "https://www.youtube.com/@linnoff88-devx"
     },
     "lives2": {
-      "nome": "INEMA TIA",
-      "url": "https://www.youtube.com/@InemaTIA"
+      "nome": "ARCKHÉ TIA",
+      "url": "https://www.youtube.com/@ARCKHÉTIA"
     },
     "lives3": {
-      "nome": "INEMA FTD",
-      "url": "https://www.youtube.com/@INEMAFTD"
+      "nome": "ARCKHÉ FTD",
+      "url": "https://www.youtube.com/@ARCKHÉFTD"
     },
     "lives4": {
-      "nome": "INEMA Tec",
-      "url": "https://www.youtube.com/@inematec"
+      "nome": "ARCKHÉ Tec",
+      "url": "https://www.youtube.com/@ARCKHÉtec"
     },
     "lives6": {
-      "nome": "INEMA Robot",
+      "nome": "ARCKHÉ Robot",
       "url": "https://www.youtube.com/channel/UCZ5fAkd2Z9PB3sHKbRKEYeQ"
     },
     "lives7": {
-      "nome": "INEMA LOOPY",
+      "nome": "ARCKHÉ LOOPY",
       "url": "https://www.youtube.com/channel/UCKBiylp-fueqbKiq7FqrM6g"
     },
     "lives8": {
-      "nome": "Inema Vibe",
+      "nome": "ARCKHÉ Vibe",
       "url": "https://www.youtube.com/channel/UCJxL11aomXJiBZga-JXylgQ"
     },
     "lives10": {
-      "nome": "Eventos Extremos INEMA",
-      "url": "https://www.youtube.com/@eventosextremos-inema"
+      "nome": "Eventos Extremos ARCKHÉ",
+      "url": "https://www.youtube.com/@eventosextremos-ARCKHÉ"
     },
     "lives11": {
-      "nome": "INEMA Futuros",
+      "nome": "ARCKHÉ Futuros",
       "url": "https://www.youtube.com/channel/UCx3T2Ltl8-gsiIytjNZ306w"
     },
     "lives24": {
-      "nome": "Inema Club24",
+      "nome": "ARCKHÉ Club24",
       "url": "https://www.youtube.com/channel/UC3vxpzIJyPl2WraCBCZ07JA"
     },
     "aventuras": {
-      "nome": "Aventuras INEMA",
-      "url": "https://www.youtube.com/@aventurasinema"
+      "nome": "Aventuras ARCKHÉ",
+      "url": "https://www.youtube.com/@aventurasARCKHÉ"
     },
     "espanhol": {
-      "nome": "Inema Espanhol",
-      "url": "https://www.youtube.com/@inemaespanhol"
+      "nome": "ARCKHÉ Espanhol",
+      "url": "https://www.youtube.com/@ARCKHÉespanhol"
     }
   },
   "grupos": [
@@ -84,18 +84,18 @@
       "emoji": "🎬",
       "nome": "explicavideos (explicavideo)",
       "oque": "Motor base dos vídeos explicativos: o roteiro vira cenas com ilustrações, capítulos e legenda, e o avatar do Nei fala o texto. Tem um perfil viral, com gancho na abertura e imagens de impacto.",
-      "serve": "Explicar um assunto, uma ferramenta ou um projeto do INEMA, do vídeo longo ao corte curto.",
+      "serve": "Explicar um assunto, uma ferramenta ou um projeto do ARCKHÉ, do vídeo longo ao corte curto.",
       "formato": "16:9 e 9:16",
       "avatar": "Sim — avatar e voz do Nei pelo estúdio HeyGen (há versêo sem avatar, com voz local)",
-      "acionamento": "Terminal (sessêo com o agente) ou bot: /explicavideo <assunto> no inemaccbot",
-      "repo": "https://github.com/inematds/explicavideos",
+      "acionamento": "Terminal (sessêo com o agente) ou bot: /explicavideo <assunto> no ARCKHÉccbot",
+      "repo": "https://github.com/linnoff88-dev/explicavideos",
       "exemplos": [
         {
           "video_id": "cgZSgxjXaWs",
           "url": "https://www.youtube.com/watch?v=cgZSgxjXaWs",
           "titulo": "Esqueça todas as IAs: chegou o novo rei — Claude Fable 5.2 nos números: custo, esforço #shorts",
           "canal": "lives4",
-          "canal_nome": "INEMA Tec",
+          "canal_nome": "ARCKHÉ Tec",
           "data": "2026-11-09",
           "formato": "9:16"
         },
@@ -104,7 +104,7 @@
           "url": "https://www.youtube.com/watch?v=lA9BHfoVZDo",
           "titulo": "Seu time de bots pela assinatura que você já paga: 193 de 193 testes, sem API (kit grátis)",
           "canal": "lives3",
-          "canal_nome": "INEMA FTD",
+          "canal_nome": "ARCKHÉ FTD",
           "data": "2026-11-09",
           "formato": "16:9"
         },
@@ -113,7 +113,7 @@
           "url": "https://www.youtube.com/watch?v=FSf-jUT_n6U",
           "titulo": "Do chat ao agente em 4 degraus: aprenda do zero, ainda em 2026, sem programar #shorts",
           "canal": "lives1",
-          "canal_nome": "INEMA TDS",
+          "canal_nome": "ARCKHÉ TDS",
           "data": "2026-11-09",
           "formato": "9:16"
         }
@@ -129,14 +129,14 @@
       "formato": "16:9 e 9:16",
       "avatar": "Sim — avatar e voz do Nei (HeyGen); renderiza no explicavideos",
       "acionamento": "Terminal (sessêo com o agente), com prévia e OK antes do avatar",
-      "repo": "https://github.com/inematds/refazvideo",
+      "repo": "https://github.com/linnoff88-dev/refazvideo",
       "exemplos": [
         {
           "video_id": "ZsnxZmxcOSQ",
           "url": "https://www.youtube.com/watch?v=ZsnxZmxcOSQ",
           "titulo": "IA sem censura: como funciona, onde usar e quanto custa",
           "canal": "lives4",
-          "canal_nome": "INEMA Tec",
+          "canal_nome": "ARCKHÉ Tec",
           "data": "2026-11-09",
           "formato": "16:9"
         },
@@ -145,7 +145,7 @@
           "url": "https://www.youtube.com/watch?v=bnLvmYcP4PI",
           "titulo": "Como criar agentes de IA que aprendem com os próprios erros",
           "canal": "lives3",
-          "canal_nome": "INEMA FTD",
+          "canal_nome": "ARCKHÉ FTD",
           "data": "2026-11-08",
           "formato": "16:9"
         },
@@ -154,7 +154,7 @@
           "url": "https://www.youtube.com/watch?v=WizdRuVKl1U",
           "titulo": "MovieFlow: uma frase vira um filme (13 modelos de IA) #shorts",
           "canal": "lives3",
-          "canal_nome": "INEMA FTD",
+          "canal_nome": "ARCKHÉ FTD",
           "data": "2026-11-06",
           "formato": "9:16"
         }
@@ -170,14 +170,14 @@
       "formato": "16:9 completo + um reel 9:16 por opçêo",
       "avatar": "Sim — avatar do Nei (meia tela no começo, depois no canto)",
       "acionamento": "Terminal (sessêo com o agente); motor ainda em protótipo",
-      "repo": "https://github.com/inematds/r7exp",
+      "repo": "https://github.com/linnoff88-dev/r7exp",
       "exemplos": [
         {
           "video_id": "0aE_BstdJkY",
           "url": "https://www.youtube.com/watch?v=0aE_BstdJkY",
           "titulo": "A IA descobre. E você? #shorts",
           "canal": "lives11",
-          "canal_nome": "INEMA Futuros",
+          "canal_nome": "ARCKHÉ Futuros",
           "data": "2026-11-04",
           "formato": "9:16"
         },
@@ -186,7 +186,7 @@
           "url": "https://www.youtube.com/watch?v=PJIsN8MMHVE",
           "titulo": "A IA resolveu 100 anos de ciência? As 3 descobertas explicadas no mapa",
           "canal": "lives11",
-          "canal_nome": "INEMA Futuros",
+          "canal_nome": "ARCKHÉ Futuros",
           "data": "2026-10-29",
           "formato": "16:9"
         },
@@ -195,7 +195,7 @@
           "url": "https://www.youtube.com/watch?v=YkqpuErgrqE",
           "titulo": "PHP2Shell: seu site está exposto? Veja como se proteger",
           "canal": "lives1",
-          "canal_nome": "INEMA TDS",
+          "canal_nome": "ARCKHÉ TDS",
           "data": "2026-10-23",
           "formato": "16:9"
         }
@@ -210,15 +210,15 @@
       "serve": "Reel viral de 40 a 50 segundos a partir de uma tese ou opiniêo forte.",
       "formato": "9:16",
       "avatar": "Sim — Nei em meia tela no gancho, depois no canto (HeyGen)",
-      "acionamento": "Terminal (/r7ex) ou bot: /r7ex <tema> no inemaccbot; publicaçêo por fila com timer",
-      "repo": "https://github.com/inematds/r7ex",
+      "acionamento": "Terminal (/r7ex) ou bot: /r7ex <tema> no ARCKHÉccbot; publicaçêo por fila com timer",
+      "repo": "https://github.com/linnoff88-dev/r7ex",
       "exemplos": [
         {
           "video_id": "9xtleXd3Kaw",
           "url": "https://www.youtube.com/watch?v=9xtleXd3Kaw",
           "titulo": "Para de criar app de IA: os 13 negócios com IA do pior ao melhor #shorts",
           "canal": "lives3",
-          "canal_nome": "INEMA FTD",
+          "canal_nome": "ARCKHÉ FTD",
           "data": "2026-11-08",
           "formato": "9:16"
         },
@@ -227,7 +227,7 @@
           "url": "https://www.youtube.com/watch?v=CxjmcmF-GWg",
           "titulo": "Seu prompt nêo é cadeado: 5 travas para o agente de IA #shorts",
           "canal": "lives4",
-          "canal_nome": "INEMA Tec",
+          "canal_nome": "ARCKHÉ Tec",
           "data": "2026-11-08",
           "formato": "9:16"
         },
@@ -236,7 +236,7 @@
           "url": "https://www.youtube.com/watch?v=0VdykM91Gzw",
           "titulo": "Ex-chefe do Google avisa: NêO estamos prontos para a IA #shorts",
           "canal": "lives11",
-          "canal_nome": "INEMA Futuros",
+          "canal_nome": "ARCKHÉ Futuros",
           "data": "2026-11-08",
           "formato": "9:16"
         }
@@ -251,15 +251,15 @@
       "serve": "Reel de método ou lista (\"as 3 peças de…\") que puxa comentário.",
       "formato": "9:16 (60–90 s)",
       "avatar": "Sim — avatar do Nei pelo estúdio HeyGen",
-      "acionamento": "Terminal ou bot: /rtex <tema> no inemaccbot; fila com timer",
-      "repo": "https://github.com/inematds/rtex",
+      "acionamento": "Terminal ou bot: /rtex <tema> no ARCKHÉccbot; fila com timer",
+      "repo": "https://github.com/linnoff88-dev/rtex",
       "exemplos": [
         {
           "video_id": "DLPw-sI_TJI",
           "url": "https://www.youtube.com/watch?v=DLPw-sI_TJI",
           "titulo": "Seu design virou colagem: coloque critério antes do efeito #shorts",
           "canal": "lives3",
-          "canal_nome": "INEMA FTD",
+          "canal_nome": "ARCKHÉ FTD",
           "data": "2026-11-09",
           "formato": "9:16"
         },
@@ -268,7 +268,7 @@
           "url": "https://www.youtube.com/watch?v=mz2WjAoNwok",
           "titulo": "Pare de pedir slide assim pro Claude: 3 peças pra ter a sua cara #shorts",
           "canal": "lives4",
-          "canal_nome": "INEMA Tec",
+          "canal_nome": "ARCKHÉ Tec",
           "data": "2026-11-06",
           "formato": "9:16"
         },
@@ -277,7 +277,7 @@
           "url": "https://www.youtube.com/watch?v=dydHb8BkkJk",
           "titulo": "Pare de disparar em volume para lista fria: prospecte por sinal com IA #shorts",
           "canal": "lives1",
-          "canal_nome": "INEMA TDS",
+          "canal_nome": "ARCKHÉ TDS",
           "data": "2026-11-05",
           "formato": "9:16"
         }
@@ -292,15 +292,15 @@
       "serve": "Reel no padrêo rtex quando nêo há avatar gravado: tudo ilustrado.",
       "formato": "9:16",
       "avatar": "Personagem ilustrado do Nei (sem HeyGen), voz local",
-      "acionamento": "Terminal ou bot: /rtexjp <tema> no inemaccbot",
-      "repo": "https://github.com/inematds/rtexjp",
+      "acionamento": "Terminal ou bot: /rtexjp <tema> no ARCKHÉccbot",
+      "repo": "https://github.com/linnoff88-dev/rtexjp",
       "exemplos": [
         {
           "video_id": "UKqxVXTDVfI",
           "url": "https://www.youtube.com/watch?v=UKqxVXTDVfI",
           "titulo": "Você paga 200 dólares. A IA custa até 5 mil. #shorts",
           "canal": "lives1",
-          "canal_nome": "INEMA TDS",
+          "canal_nome": "ARCKHÉ TDS",
           "data": "2026-11-05",
           "formato": "9:16"
         },
@@ -309,7 +309,7 @@
           "url": "https://www.youtube.com/watch?v=78O5l2Coiv4",
           "titulo": "E se a China fechar a torneira da IA grátis? #shorts",
           "canal": "lives1",
-          "canal_nome": "INEMA TDS",
+          "canal_nome": "ARCKHÉ TDS",
           "data": "2026-11-05",
           "formato": "9:16"
         }
@@ -325,7 +325,7 @@
       "formato": "9:16",
       "avatar": "Sim — avatar do Nei (HeyGen)",
       "acionamento": "Terminal (/reel7etapas) — substituído pelo r7ex",
-      "repo": "https://github.com/inematds/reel7etapas",
+      "repo": "https://github.com/linnoff88-dev/reel7etapas",
       "nota_exemplos": "Motor antigo: o exemplo mostra o padrêo anterior, que levou ao r7ex. Para ver o formato atual, veja os exemplos do r7ex.",
       "exemplos": [
         {
@@ -333,7 +333,7 @@
           "url": "https://www.youtube.com/watch?v=xpDV5qQe5oE",
           "titulo": "Vem aí demissêo em massa de gerentes? A IA vai cobrar preparo #shorts",
           "canal": "lives3",
-          "canal_nome": "INEMA FTD",
+          "canal_nome": "ARCKHÉ FTD",
           "data": "2026-10-18",
           "formato": "9:16"
         }
@@ -344,12 +344,12 @@
       "grupo": "explicativos",
       "emoji": "🌎",
       "nome": "Traduçêo de vídeo EN/ES",
-      "oque": "Leva um vídeo pronto para inglês e espanhol no mesmo formato do português: roteiro e deixas traduzidos pelo tradutor central, avatar e voz do Nei no idioma novo, montagem no explicavideos. Em espanhol, cada vídeo entra numa fila que publica aos poucos no canal Inema Espanhol.",
+      "oque": "Leva um vídeo pronto para inglês e espanhol no mesmo formato do português: roteiro e deixas traduzidos pelo tradutor central, avatar e voz do Nei no idioma novo, montagem no explicavideos. Em espanhol, cada vídeo entra numa fila que publica aos poucos no canal ARCKHÉ Espanhol.",
       "serve": "Versões EN/ES de explicativos, reels e aulas.",
       "formato": "16:9 e 9:16 (igual ao original)",
       "avatar": "Sim — avatar e voz do Nei no idioma",
       "acionamento": "Terminal (sessêo) + fila-espanhol com timer (1 vídeo a cada 2 h, até 8 por dia)",
-      "repo": "https://github.com/inematds/explicavideos",
+      "repo": "https://github.com/linnoff88-dev/explicavideos",
       "repo_extra": [
         {
           "nome": "fila-espanhol",
@@ -362,7 +362,7 @@
           "url": "https://www.youtube.com/watch?v=S1uTys1xGnc",
           "titulo": "REA: tu agente de IA sin trabas para adaptar programas en tu computadora",
           "canal": "espanhol",
-          "canal_nome": "Inema Espanhol",
+          "canal_nome": "ARCKHÉ Espanhol",
           "data": "2026-10-17",
           "formato": "16:9"
         },
@@ -371,7 +371,7 @@
           "url": "https://www.youtube.com/watch?v=hzuNcPqHOEI",
           "titulo": "IA Cultivada: por qué tu IA repite errores y cómo hacer que mejore",
           "canal": "espanhol",
-          "canal_nome": "Inema Espanhol",
+          "canal_nome": "ARCKHÉ Espanhol",
           "data": "2026-10-14",
           "formato": "16:9"
         },
@@ -380,7 +380,7 @@
           "url": "https://www.youtube.com/watch?v=L3-LqTC_qeI",
           "titulo": "Codex + Claude: uno planifica, el otro critica #Shorts",
           "canal": "espanhol",
-          "canal_nome": "Inema Espanhol",
+          "canal_nome": "ARCKHÉ Espanhol",
           "data": "2026-10-14",
           "formato": "9:16"
         }
@@ -396,14 +396,14 @@
       "formato": "9:16 diário + 16:9 longo no fim de semana",
       "avatar": "Sim — Nei comentando (HeyGen)",
       "acionamento": "Timer: segunda a sexta 02:00, balanço no sábado",
-      "repo": "https://github.com/inematds/finviral",
+      "repo": "https://github.com/linnoff88-dev/finviral",
       "exemplos": [
         {
           "video_id": "lVnzzTdXz9I",
           "url": "https://www.youtube.com/watch?v=lVnzzTdXz9I",
           "titulo": "US$ 3 trilhões somem de Wall Street: a bolha da IA vai estourar?",
           "canal": "lives2",
-          "canal_nome": "INEMA TIA",
+          "canal_nome": "ARCKHÉ TIA",
           "data": "2026-11-09",
           "formato": "9:16"
         },
@@ -412,7 +412,7 @@
           "url": "https://www.youtube.com/watch?v=pZ2ZCs_Udyo",
           "titulo": "Selic parada em 13,75%: o que esperar até dezembro, explicado",
           "canal": "lives2",
-          "canal_nome": "INEMA TIA",
+          "canal_nome": "ARCKHÉ TIA",
           "data": "2026-11-08",
           "formato": "16:9"
         },
@@ -421,7 +421,7 @@
           "url": "https://www.youtube.com/watch?v=4x2j7Xbq5ng",
           "titulo": "Financiamento de imóvel vai de 11% a 15% após a eleiçêo: o que muda",
           "canal": "lives2",
-          "canal_nome": "INEMA TIA",
+          "canal_nome": "ARCKHÉ TIA",
           "data": "2026-11-06",
           "formato": "9:16"
         }
@@ -437,14 +437,14 @@
       "formato": "9:16 diário + 16:9 longo no fim de semana",
       "avatar": "Sim — Nei comentando (HeyGen)",
       "acionamento": "Timer: segunda a sexta 05:00, balanço no sábado",
-      "repo": "https://github.com/inematds/saudeviral",
+      "repo": "https://github.com/linnoff88-dev/saudeviral",
       "exemplos": [
         {
           "video_id": "fN8iKWuTbmg",
           "url": "https://www.youtube.com/watch?v=fN8iKWuTbmg",
           "titulo": "Seu tipo sanguíneo muda o risco de câncer? O radar da saúde",
           "canal": "lives2",
-          "canal_nome": "INEMA TIA",
+          "canal_nome": "ARCKHÉ TIA",
           "data": "2026-11-09",
           "formato": "9:16"
         },
@@ -453,7 +453,7 @@
           "url": "https://www.youtube.com/watch?v=xgvdLWqTtQw",
           "titulo": "Borderline, luto do vivo e 1.800 degraus | A semana explicada",
           "canal": "lives2",
-          "canal_nome": "INEMA TIA",
+          "canal_nome": "ARCKHÉ TIA",
           "data": "2026-11-08",
           "formato": "16:9"
         },
@@ -462,7 +462,7 @@
           "url": "https://www.youtube.com/watch?v=BC4_4tpDUYE",
           "titulo": "Luto de quem está vivo, borderline e a gema do ovo: a semana da saúde",
           "canal": "lives2",
-          "canal_nome": "INEMA TIA",
+          "canal_nome": "ARCKHÉ TIA",
           "data": "2026-11-08",
           "formato": "9:16"
         }
@@ -478,14 +478,14 @@
       "formato": "9:16 diário + 16:9 longo no fim de semana",
       "avatar": "Sim — Nei comentando (HeyGen)",
       "acionamento": "Timer: segunda a sexta 08:00, balanço no sábado",
-      "repo": "https://github.com/inematds/advviral",
+      "repo": "https://github.com/linnoff88-dev/advviral",
       "exemplos": [
         {
           "video_id": "TE9-6B4NbxM",
           "url": "https://www.youtube.com/watch?v=TE9-6B4NbxM",
           "titulo": "Processos contra o INSS mais que dobraram: por que tanta gente vai à Justiça",
           "canal": "lives2",
-          "canal_nome": "INEMA TIA",
+          "canal_nome": "ARCKHÉ TIA",
           "data": "2026-11-09",
           "formato": "9:16"
         },
@@ -494,7 +494,7 @@
           "url": "https://www.youtube.com/watch?v=glv2cyDDECc",
           "titulo": "Ataque hacker de US$ 49 mi à cripto: quem paga? | A semana explicada",
           "canal": "lives2",
-          "canal_nome": "INEMA TIA",
+          "canal_nome": "ARCKHÉ TIA",
           "data": "2026-11-08",
           "formato": "16:9"
         },
@@ -503,7 +503,7 @@
           "url": "https://www.youtube.com/watch?v=pB4iDtByzyc",
           "titulo": "Aposentadoria com 15 anos paga só 60% da média, e mais 4 direitos",
           "canal": "lives2",
-          "canal_nome": "INEMA TIA",
+          "canal_nome": "ARCKHÉ TIA",
           "data": "2026-11-07",
           "formato": "16:9"
         }
@@ -519,14 +519,14 @@
       "formato": "9:16 diário + 16:9 longo no fim de semana",
       "avatar": "Sim — Nei comentando (HeyGen)",
       "acionamento": "Timer: gera às 9h, publica ao meio-dia",
-      "repo": "https://github.com/inematds/futviral",
+      "repo": "https://github.com/linnoff88-dev/futviral",
       "exemplos": [
         {
           "video_id": "7VM2auexshA",
           "url": "https://www.youtube.com/watch?v=7VM2auexshA",
           "titulo": "Grêmio na zona de rebaixamento e na final de R$ 78 milhões",
           "canal": "lives24",
-          "canal_nome": "Inema Club24",
+          "canal_nome": "ARCKHÉ Club24",
           "data": "2026-11-09",
           "formato": "9:16"
         },
@@ -535,7 +535,7 @@
           "url": "https://www.youtube.com/watch?v=d-J-JeG8dTU",
           "titulo": "FUTVIRAL: Flamengo pode ser campeêo no Allianz e Vasco decide hoje",
           "canal": "lives24",
-          "canal_nome": "Inema Club24",
+          "canal_nome": "ARCKHÉ Club24",
           "data": "2026-11-08",
           "formato": "9:16"
         },
@@ -544,7 +544,7 @@
           "url": "https://www.youtube.com/watch?v=aVWqhfVehwA",
           "titulo": "Flamengo a 2 vitórias do título no Allianz? A semana explicada",
           "canal": "lives24",
-          "canal_nome": "Inema Club24",
+          "canal_nome": "ARCKHÉ Club24",
           "data": "2026-11-08",
           "formato": "16:9"
         }
@@ -560,14 +560,14 @@
       "formato": "9:16 diário + 16:9 longo no fim de semana",
       "avatar": "Sim — Nei comentando (HeyGen)",
       "acionamento": "Timer: gera às 10h, publica às 13h",
-      "repo": "https://github.com/inematds/contaviral",
+      "repo": "https://github.com/linnoff88-dev/contaviral",
       "exemplos": [
         {
           "video_id": "0EG5d9CgNLo",
           "url": "https://www.youtube.com/watch?v=0EG5d9CgNLo",
           "titulo": "Perdêo do MEI: quem parcelou pode parar? E o Seletivo só em fevereiro",
           "canal": "lives2",
-          "canal_nome": "INEMA TIA",
+          "canal_nome": "ARCKHÉ TIA",
           "data": "2026-11-09",
           "formato": "9:16"
         },
@@ -576,7 +576,7 @@
           "url": "https://www.youtube.com/watch?v=noBpqjKgdNQ",
           "titulo": "CBS a 11,34%? A alíquota que assustou e o que mais mudou na semana",
           "canal": "lives2",
-          "canal_nome": "INEMA TIA",
+          "canal_nome": "ARCKHÉ TIA",
           "data": "2026-11-08",
           "formato": "9:16"
         },
@@ -585,7 +585,7 @@
           "url": "https://www.youtube.com/watch?v=qsYlEy48vaY",
           "titulo": "CBS de 11,34%, inflaçêo e perdêo do MEI: a semana contábil explicada",
           "canal": "lives2",
-          "canal_nome": "INEMA TIA",
+          "canal_nome": "ARCKHÉ TIA",
           "data": "2026-11-08",
           "formato": "16:9"
         }
@@ -601,14 +601,14 @@
       "formato": "9:16",
       "avatar": "Sim — Nei pelo estúdio HeyGen",
       "acionamento": "Timers ao longo do dia (Clima 24 h, Previsêo do Dia, Clima do DIA, alertas)",
-      "repo": "https://github.com/inematds/eventosextremospub",
+      "repo": "https://github.com/linnoff88-dev/eventosextremospub",
       "exemplos": [
         {
           "video_id": "i11SMouAllE",
           "url": "https://www.youtube.com/watch?v=i11SMouAllE",
           "titulo": "O clima no mundo 09/11: duna cai sobre barracas em Gaza, enxurrada no Iraque #Shorts",
           "canal": "lives10",
-          "canal_nome": "Eventos Extremos INEMA",
+          "canal_nome": "Eventos Extremos ARCKHÉ",
           "data": "2026-11-09",
           "formato": "9:16"
         },
@@ -617,7 +617,7 @@
           "url": "https://www.youtube.com/watch?v=E8xsGn0xRXQ",
           "titulo": "654 cidades em alerta de tempestade amanhê · Alerta da semana 09/11 #Shorts",
           "canal": "lives10",
-          "canal_nome": "Eventos Extremos INEMA",
+          "canal_nome": "Eventos Extremos ARCKHÉ",
           "data": "2026-11-09",
           "formato": "9:16"
         },
@@ -626,7 +626,7 @@
           "url": "https://www.youtube.com/watch?v=eN05Dt_jM0M",
           "titulo": "Clima do dia 09/11: geada em novembro e 0,8 °C na serra catarinense #Shorts",
           "canal": "lives10",
-          "canal_nome": "Eventos Extremos INEMA",
+          "canal_nome": "Eventos Extremos ARCKHÉ",
           "data": "2026-11-09",
           "formato": "9:16"
         }
@@ -649,7 +649,7 @@
           "url": "https://www.youtube.com/watch?v=Lw-LdQiyUpA",
           "titulo": "5 palavras e o projeto no ar: por que o prompt curto funciona melhor #shorts",
           "canal": "lives7",
-          "canal_nome": "INEMA LOOPY",
+          "canal_nome": "ARCKHÉ LOOPY",
           "data": "2026-11-07",
           "formato": "9:16"
         },
@@ -658,7 +658,7 @@
           "url": "https://www.youtube.com/watch?v=T6d1k8fgVHQ",
           "titulo": "Prompt de 5 palavras e zero código: 7 hábitos de quem está no topo da IA",
           "canal": "lives7",
-          "canal_nome": "INEMA LOOPY",
+          "canal_nome": "ARCKHÉ LOOPY",
           "data": "2026-11-07",
           "formato": "16:9"
         },
@@ -667,7 +667,7 @@
           "url": "https://www.youtube.com/watch?v=hageCcHOcLE",
           "titulo": "A IA desligou 25 apps da TV e achou um minerador escondido: 3 usos que quase ninguém faz",
           "canal": "lives7",
-          "canal_nome": "INEMA LOOPY",
+          "canal_nome": "ARCKHÉ LOOPY",
           "data": "2026-11-06",
           "formato": "9:16"
         }
@@ -683,14 +683,14 @@
       "formato": "16:9",
       "avatar": "Opcional — fase 3 com avatar do Nei",
       "acionamento": "Terminal (skill historia-timelapse); fila de publicaçêo",
-      "repo": "https://github.com/inematds/historia-timelapse",
+      "repo": "https://github.com/linnoff88-dev/historia-timelapse",
       "exemplos": [
         {
           "video_id": "WzPVdaal1OY",
           "url": "https://www.youtube.com/watch?v=WzPVdaal1OY",
           "titulo": "Porto Alegre de 1772 a 2024: 252 anos em um timelapse 3D com luz realista",
           "canal": "aventuras",
-          "canal_nome": "Aventuras INEMA",
+          "canal_nome": "Aventuras ARCKHÉ",
           "data": "2026-10-24",
           "formato": "16:9"
         },
@@ -699,7 +699,7 @@
           "url": "https://www.youtube.com/watch?v=dalR1xWPFlE",
           "titulo": "O centro de Itaguaí em 3D: da Matriz de 1729 à cidade do futuro",
           "canal": "aventuras",
-          "canal_nome": "Aventuras INEMA",
+          "canal_nome": "Aventuras ARCKHÉ",
           "data": "2026-10-23",
           "formato": "16:9"
         },
@@ -708,30 +708,30 @@
           "url": "https://www.youtube.com/watch?v=Ij4KsTN_SB0",
           "titulo": "Rio de Janeiro de 1500 a 2024: 524 anos de história em timelapse 3D",
           "canal": "aventuras",
-          "canal_nome": "Aventuras INEMA",
+          "canal_nome": "Aventuras ARCKHÉ",
           "data": "2026-10-23",
           "formato": "16:9"
         }
       ]
     },
     {
-      "id": "aventurasinemavideo",
+      "id": "aventurasARCKHÉvideo",
       "grupo": "automaticos",
       "emoji": "🏔️",
-      "nome": "aventurasinemavideo (Memórias de Aventura)",
-      "oque": "Transforma matérias reais do acervo do INEMA Aventura (2001 a 2012), com o relato e as fotos dos próprios aventureiros, em filmes narrados de 1 a 3 minutos: fotos restauradas com movimento e narraçêo na voz do Nei.",
+      "nome": "aventurasARCKHÉvideo (Memórias de Aventura)",
+      "oque": "Transforma matérias reais do acervo do ARCKHÉ Aventura (2001 a 2012), com o relato e as fotos dos próprios aventureiros, em filmes narrados de 1 a 3 minutos: fotos restauradas com movimento e narraçêo na voz do Nei.",
       "serve": "A série Memórias de Aventura.",
       "formato": "16:9",
       "avatar": "Nêo — fotos do acervo + narraçêo",
-      "acionamento": "Terminal / lote, com publicaçêo no canal Aventuras INEMA",
-      "repo": "https://github.com/inematds/aventurasinemavideo",
+      "acionamento": "Terminal / lote, com publicaçêo no canal Aventuras ARCKHÉ",
+      "repo": "https://github.com/linnoff88-dev/aventurasARCKHÉvideo",
       "exemplos": [
         {
           "video_id": "vjsykS5_9HU",
           "url": "https://www.youtube.com/watch?v=vjsykS5_9HU",
           "titulo": "Beto Monteiro vence sob calor de 35°C na Fórmula Truck | Memórias de Aventura #166",
           "canal": "aventuras",
-          "canal_nome": "Aventuras INEMA",
+          "canal_nome": "Aventuras ARCKHÉ",
           "data": "2026-11-09",
           "formato": "16:9"
         },
@@ -740,7 +740,7 @@
           "url": "https://www.youtube.com/watch?v=PLPcwWAQgqE",
           "titulo": "Allam Khodair: de 4º a vencedor na Stock Car 2010 | Memórias de Aventura #165",
           "canal": "aventuras",
-          "canal_nome": "Aventuras INEMA",
+          "canal_nome": "Aventuras ARCKHÉ",
           "data": "2026-11-09",
           "formato": "16:9"
         },
@@ -749,7 +749,7 @@
           "url": "https://www.youtube.com/watch?v=iqrvHLIET2Y",
           "titulo": "De Curitiba ao Alasca de moto: 34 mil km em 1997 | Memórias de Aventura #164",
           "canal": "aventuras",
-          "canal_nome": "Aventuras INEMA",
+          "canal_nome": "Aventuras ARCKHÉ",
           "data": "2026-11-09",
           "formato": "16:9"
         }
@@ -765,14 +765,14 @@
       "formato": "9:16",
       "avatar": "Sim — avatar do Nei (HeyGen)",
       "acionamento": "Timer: gera às 9h, publica às 11h",
-      "repo": "https://github.com/inematds/gitbombando",
+      "repo": "https://github.com/linnoff88-dev/gitbombando",
       "exemplos": [
         {
           "video_id": "W3Mds0R28_A",
           "url": "https://www.youtube.com/watch?v=W3Mds0R28_A",
           "titulo": "Caça-apelidos dispara ao topo do GitHub com +4.294 estrelas em um dia #Shorts",
           "canal": "lives4",
-          "canal_nome": "INEMA Tec",
+          "canal_nome": "ARCKHÉ Tec",
           "data": "2026-11-09",
           "formato": "9:16"
         },
@@ -781,7 +781,7 @@
           "url": "https://www.youtube.com/watch?v=vXoQJMnVT1w",
           "titulo": "Cloudflare segue no topo e um caça-apelidos invade o pódio: +2.085 estrelas no GitHub #Shorts",
           "canal": "lives4",
-          "canal_nome": "INEMA Tec",
+          "canal_nome": "ARCKHÉ Tec",
           "data": "2026-11-08",
           "formato": "9:16"
         },
@@ -790,7 +790,7 @@
           "url": "https://www.youtube.com/watch?v=3FXsmsRC0YA",
           "titulo": "17.100 estrelas em 7 dias: o controle remoto de todas as IAs lidera o GitHub #Shorts",
           "canal": "lives4",
-          "canal_nome": "INEMA Tec",
+          "canal_nome": "ARCKHÉ Tec",
           "data": "2026-11-08",
           "formato": "9:16"
         }
@@ -806,14 +806,14 @@
       "formato": "16:9 e 9:16 do mesmo projeto",
       "avatar": "Nêo (rosto opcional, até meia tela)",
       "acionamento": "Terminal (skill no Claude Code ou Codex)",
-      "repo": "https://github.com/inematds/video-codigo",
+      "repo": "https://github.com/linnoff88-dev/video-codigo",
       "exemplos": [
         {
           "video_id": "4ILX66Hddtk",
           "url": "https://www.youtube.com/watch?v=4ILX66Hddtk",
           "titulo": "Lead que espera esfria: do WhatsApp à venda em 1 minuto, feito com código #Shorts",
           "canal": "lives3",
-          "canal_nome": "INEMA FTD",
+          "canal_nome": "ARCKHÉ FTD",
           "data": "2026-11-06",
           "formato": "9:16"
         },
@@ -822,7 +822,7 @@
           "url": "https://www.youtube.com/watch?v=tWv1mEIK62c",
           "titulo": "Do WhatsApp à venda: filme de produto feito 100% com código",
           "canal": "lives3",
-          "canal_nome": "INEMA FTD",
+          "canal_nome": "ARCKHÉ FTD",
           "data": "2026-11-06",
           "formato": "16:9"
         }
@@ -838,14 +838,14 @@
       "formato": "9:16 (~60 s)",
       "avatar": "Nêo",
       "acionamento": "Terminal (skill no Claude Code)",
-      "repo": "https://github.com/inematds/reel-ciencia-3d",
+      "repo": "https://github.com/linnoff88-dev/reel-ciencia-3d",
       "exemplos": [
         {
           "video_id": "FDtJim4xHjY",
           "url": "https://www.youtube.com/watch?v=FDtJim4xHjY",
           "titulo": "E se o Sol sumisse agora? Animaçêo 3D feita só com código",
           "canal": "lives3",
-          "canal_nome": "INEMA FTD",
+          "canal_nome": "ARCKHÉ FTD",
           "data": "2026-11-06",
           "formato": "9:16"
         },
@@ -854,7 +854,7 @@
           "url": "https://www.youtube.com/watch?v=nUsGrdZ-8MY",
           "titulo": "E se a Lua sumisse? Animaçêo 3D feita só com código",
           "canal": "lives3",
-          "canal_nome": "INEMA FTD",
+          "canal_nome": "ARCKHÉ FTD",
           "data": "2026-11-06",
           "formato": "9:16"
         },
@@ -863,7 +863,7 @@
           "url": "https://www.youtube.com/watch?v=BmSeV6r0FdQ",
           "titulo": "E se a Terra nêo tivesse inclinaçêo? Animaçêo 3D feita só com código",
           "canal": "lives3",
-          "canal_nome": "INEMA FTD",
+          "canal_nome": "ARCKHÉ FTD",
           "data": "2026-11-06",
           "formato": "9:16"
         }
@@ -879,35 +879,35 @@
       "formato": "16:9",
       "avatar": "Nêo",
       "acionamento": "Terminal (skill no Claude Code)",
-      "repo": "https://github.com/inematds/video-sem-rosto",
+      "repo": "https://github.com/linnoff88-dev/video-sem-rosto",
       "nota_exemplos": "Ainda sem vídeo publicado no YouTube por este motor; os vídeos de demonstraçêo estêo no guia do projeto.",
       "exemplos": []
     },
     {
-      "id": "videos-cursos-inema",
+      "id": "videos-cursos-ARCKHÉ",
       "grupo": "codigo",
       "emoji": "🎓",
-      "nome": "videos-cursos-inema",
-      "oque": "Motor que transforma um curso INEMA (site estático) numa série de vídeos narrados e animados, em três partes selecionáveis: landing, um vídeo por trilha e uma aula completa por módulo.",
+      "nome": "videos-cursos-ARCKHÉ",
+      "oque": "Motor que transforma um curso ARCKHÉ (site estático) numa série de vídeos narrados e animados, em três partes selecionáveis: landing, um vídeo por trilha e uma aula completa por módulo.",
       "serve": "Vídeos de divulgaçêo e aulas de um curso.",
       "formato": "16:9 (e 9:16 com --vertical)",
       "avatar": "Nêo — narraçêo com voz clonada local",
-      "acionamento": "Terminal (skill videos-cursos-inema)",
-      "repo": "https://github.com/inematds/videos-cursos-inema",
+      "acionamento": "Terminal (skill videos-cursos-ARCKHÉ)",
+      "repo": "https://github.com/linnoff88-dev/videos-cursos-ARCKHÉ",
       "nota_exemplos": "Nenhum vídeo deste motor aparece no histórico de publicações; o guia do projeto mostra o exemplo do curso FEP.",
       "exemplos": []
     },
     {
-      "id": "inemavox",
+      "id": "ARCKHÉvox",
       "grupo": "apoio",
       "emoji": "🔊",
-      "nome": "inemavox",
+      "nome": "ARCKHÉvox",
       "oque": "Suíte de voz com IA local que todos os motores usam por baixo: baixa vídeos, transcreve, gera voz (TTS), dubla e corta, com os modelos rodando na placa de vídeo, sem custo de API.",
       "serve": "Voz, transcriçêo, download e música/efeitos para os outros motores.",
       "formato": "—",
       "avatar": "—",
       "acionamento": "Terminal (scripts) ou API local",
-      "repo": "https://github.com/inematds/inemavox",
+      "repo": "https://github.com/linnoff88-dev/ARCKHÉvox",
       "nota_exemplos": "Motor de apoio: nêo publica vídeo próprio.",
       "exemplos": []
     }
