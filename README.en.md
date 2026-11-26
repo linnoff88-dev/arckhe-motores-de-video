@@ -87,8 +87,8 @@ A reel production line with a 7-step hook script, from an opening hook with a nu
 - **Repository:** [github.com/inematds/r7ex](https://github.com/inematds/r7ex)
 - **Published examples:**
   - [Para de criar app de IA: os 13 negócios com IA do pior ao melhor #shorts](https://www.youtube.com/watch?v=9xtleXd3Kaw) — INEMA FTD, 2026-11-08, 9:16
-  - [Seu prompt não é cadeado: 5 travas para o agente de IA #shorts](https://www.youtube.com/watch?v=CxjmcmF-GWg) — INEMA Tec, 2026-11-08, 9:16
-  - [Ex-chefe do Google avisa: NÃO estamos prontos para a IA #shorts](https://www.youtube.com/watch?v=0VdykM91Gzw) — INEMA Futuros, 2026-11-08, 9:16
+  - [Seu prompt nêo é cadeado: 5 travas para o agente de IA #shorts](https://www.youtube.com/watch?v=CxjmcmF-GWg) — INEMA Tec, 2026-11-08, 9:16
+  - [Ex-chefe do Google avisa: NêO estamos prontos para a IA #shorts](https://www.youtube.com/watch?v=0VdykM91Gzw) — INEMA Futuros, 2026-11-08, 9:16
 
 #### 🧩 rtex
 
@@ -128,7 +128,7 @@ The first 7-step hook reel model (hook, desire, fear, ease, discovery, benefit, 
 - **How it is triggered:** Terminal (/reel7etapas) — replaced by r7ex
 - **Repository:** [github.com/inematds/reel7etapas](https://github.com/inematds/reel7etapas)
 - **Published examples:**
-  - [Vem aí demissão em massa de gerentes? A IA vai cobrar preparo #shorts](https://www.youtube.com/watch?v=xpDV5qQe5oE) — INEMA FTD, 2026-10-18, 9:16
+  - [Vem aí demissêo em massa de gerentes? A IA vai cobrar preparo #shorts](https://www.youtube.com/watch?v=xpDV5qQe5oE) — INEMA FTD, 2026-10-18, 9:16
 - Older engine: this example shows the previous format, which led to r7ex. To see the current format, check the r7ex examples.
 
 ### Automated daily radar reports
@@ -145,7 +145,7 @@ Reviews videos from leading finance influencers using transcripts, separates fig
 - **Published examples:**
   - [US$ 3 trilhões somem de Wall Street: a bolha da IA vai estourar?](https://www.youtube.com/watch?v=lVnzzTdXz9I) — INEMA TIA, 2026-11-09, 9:16
   - [Selic parada em 13,75%: o que esperar até dezembro, explicado](https://www.youtube.com/watch?v=pZ2ZCs_Udyo) — INEMA TIA, 2026-11-08, 16:9
-  - [Financiamento de imóvel vai de 11% a 15% após a eleição: o que muda](https://www.youtube.com/watch?v=4x2j7Xbq5ng) — INEMA TIA, 2026-11-06, 9:16
+  - [Financiamento de imóvel vai de 11% a 15% após a eleiçêo: o que muda](https://www.youtube.com/watch?v=4x2j7Xbq5ng) — INEMA TIA, 2026-11-06, 9:16
 
 #### 🩺 saudeviral
 
@@ -177,7 +177,7 @@ Tracks what leading YouTube lawyers say about rights: consumer, social security,
 
 #### ⚽ futviral
 
-Summarizes what the 10 largest football channels said: Brasileirão, European football, transfers, and business, with labels (RUMOR, IN NEGOTIATIONS, CONFIRMED, CONTROVERSY). Rumors are treated as rumors, and betting is excluded.
+Summarizes what the 10 largest football channels said: Brasileirêo, European football, transfers, and business, with labels (RUMOR, IN NEGOTIATIONS, CONFIRMED, CONTROVERSY). Rumors are treated as rumors, and betting is excluded.
 
 - **Best for:** Daily football radar.
 - **Format:** Daily 9:16 + long 16:9 video on weekends
@@ -186,7 +186,7 @@ Summarizes what the 10 largest football channels said: Brasileirão, European fo
 - **Repository:** [github.com/inematds/futviral](https://github.com/inematds/futviral)
 - **Published examples:**
   - [Grêmio na zona de rebaixamento e na final de R$ 78 milhões](https://www.youtube.com/watch?v=7VM2auexshA) — Inema Club24, 2026-11-09, 9:16
-  - [FUTVIRAL: Flamengo pode ser campeão no Allianz e Vasco decide hoje](https://www.youtube.com/watch?v=d-J-JeG8dTU) — Inema Club24, 2026-11-08, 9:16
+  - [FUTVIRAL: Flamengo pode ser campeêo no Allianz e Vasco decide hoje](https://www.youtube.com/watch?v=d-J-JeG8dTU) — Inema Club24, 2026-11-08, 9:16
   - [Flamengo a 2 vitórias do título no Allianz? A semana explicada](https://www.youtube.com/watch?v=aVWqhfVehwA) — Inema Club24, 2026-11-08, 16:9
 
 #### 🧾 contaviral
@@ -199,9 +199,9 @@ Summarizes what the 10 largest accounting and tax channels said: laws and regula
 - **How it is triggered:** Timer: generates at 10 a.m., publishes at 1 p.m.
 - **Repository:** [github.com/inematds/contaviral](https://github.com/inematds/contaviral)
 - **Published examples:**
-  - [Perdão do MEI: quem parcelou pode parar? E o Seletivo só em fevereiro](https://www.youtube.com/watch?v=0EG5d9CgNLo) — INEMA TIA, 2026-11-09, 9:16
+  - [Perdêo do MEI: quem parcelou pode parar? E o Seletivo só em fevereiro](https://www.youtube.com/watch?v=0EG5d9CgNLo) — INEMA TIA, 2026-11-09, 9:16
   - [CBS a 11,34%? A alíquota que assustou e o que mais mudou na semana](https://www.youtube.com/watch?v=noBpqjKgdNQ) — INEMA TIA, 2026-11-08, 9:16
-  - [CBS de 11,34%, inflação e perdão do MEI: a semana contábil explicada](https://www.youtube.com/watch?v=qsYlEy48vaY) — INEMA TIA, 2026-11-08, 16:9
+  - [CBS de 11,34%, inflaçêo e perdêo do MEI: a semana contábil explicada](https://www.youtube.com/watch?v=qsYlEy48vaY) — INEMA TIA, 2026-11-08, 16:9
 
 ### Other lines and series
 
@@ -216,7 +216,7 @@ Turns severe weather alerts into a “crisis room” video: downloads public dat
 - **Repository:** [github.com/inematds/eventosextremospub](https://github.com/inematds/eventosextremospub)
 - **Published examples:**
   - [O clima no mundo 09/11: duna cai sobre barracas em Gaza, enxurrada no Iraque #Shorts](https://www.youtube.com/watch?v=i11SMouAllE) — Eventos Extremos INEMA, 2026-11-09, 9:16
-  - [654 cidades em alerta de tempestade amanhã · Alerta da semana 09/11 #Shorts](https://www.youtube.com/watch?v=E8xsGn0xRXQ) — Eventos Extremos INEMA, 2026-11-09, 9:16
+  - [654 cidades em alerta de tempestade amanhê · Alerta da semana 09/11 #Shorts](https://www.youtube.com/watch?v=E8xsGn0xRXQ) — Eventos Extremos INEMA, 2026-11-09, 9:16
   - [Clima do dia 09/11: geada em novembro e 0,8 °C na serra catarinense #Shorts](https://www.youtube.com/watch?v=eN05Dt_jM0M) — Eventos Extremos INEMA, 2026-11-09, 9:16
 
 #### 👀 Channel Watcher
@@ -301,9 +301,9 @@ A kit with a skill for Claude Code that turns an “What if…?” question into
 - **How it is triggered:** Terminal (skill in Claude Code)
 - **Repository:** [github.com/inematds/reel-ciencia-3d](https://github.com/inematds/reel-ciencia-3d)
 - **Published examples:**
-  - [E se o Sol sumisse agora? Animação 3D feita só com código](https://www.youtube.com/watch?v=FDtJim4xHjY) — INEMA FTD, 2026-11-06, 9:16
-  - [E se a Lua sumisse? Animação 3D feita só com código](https://www.youtube.com/watch?v=nUsGrdZ-8MY) — INEMA FTD, 2026-11-06, 9:16
-  - [E se a Terra não tivesse inclinação? Animação 3D feita só com código](https://www.youtube.com/watch?v=BmSeV6r0FdQ) — INEMA FTD, 2026-11-06, 9:16
+  - [E se o Sol sumisse agora? Animaçêo 3D feita só com código](https://www.youtube.com/watch?v=FDtJim4xHjY) — INEMA FTD, 2026-11-06, 9:16
+  - [E se a Lua sumisse? Animaçêo 3D feita só com código](https://www.youtube.com/watch?v=nUsGrdZ-8MY) — INEMA FTD, 2026-11-06, 9:16
+  - [E se a Terra nêo tivesse inclinaçêo? Animaçêo 3D feita só com código](https://www.youtube.com/watch?v=BmSeV6r0FdQ) — INEMA FTD, 2026-11-06, 9:16
 
 #### 🎙️ video-sem-rosto
 

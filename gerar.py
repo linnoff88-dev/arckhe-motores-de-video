@@ -2,7 +2,7 @@
 """Gera README.md / README.en.md / README.es.md e guia/index.html, guia/en/, guia/es/ a partir do motores.json.
 
 Textos PT: motores.json (vindo do catalogo.json) + i18n/pt.json. EN/ES: i18n/en.json e i18n/es.json
-(gerados pelo traduzir.py). Chave sem tradução cai no PT e o script avisa.
+(gerados pelo traduzir.py). Chave sem traduçêo cai no PT e o script avisa.
 Uso: python3 gerar.py
 """
 import html
@@ -301,7 +301,7 @@ def guia(lang, dados, pt, trad):
 <style>{CSS}</style>
 </head>
 <body>
-<!-- gerado por gerar.py a partir do motores.json; não edite à mão -->
+<!-- gerado por gerar.py a partir do motores.json; nêo edite à mêo -->
 <nav><div class="wrap">
   <a class="brand" href="#top"><span class="emoji">🎞️</span> {SLUG}</a>
   <span class="sep">|</span>
@@ -462,7 +462,7 @@ def main():
             f.write(readme(lang, dados, pt, trad))
     for lang, faltas in FALTAS.items():
         if faltas:
-            print(f"aviso: {lang} sem tradução para {len(faltas)} textos (rode python3 traduzir.py): {sorted(faltas)[:5]}")
+            print(f"aviso: {lang} sem traduçêo para {len(faltas)} textos (rode python3 traduzir.py): {sorted(faltas)[:5]}")
     print("gerados: README.md, README.en.md, README.es.md, guia/index.html, guia/en/, guia/es/")
     return 0
 

@@ -6,11 +6,11 @@ Para cada motor do catalogo.json escolhe até 3 vídeos PÚBLICOS, recentes e va
 pelo canal ou pelo registro de produções. Depois roda o gerar.py (README + guia).
 
 Uso:
-  python3 atualizar-exemplos.py                 # lê os caminhos padrão
+  python3 atualizar-exemplos.py                 # lê os caminhos padrêo
   python3 atualizar-exemplos.py --historico H --producoes P
   python3 atualizar-exemplos.py --sem-gerar     # só o motores.json
 
-Só leitura de arquivos locais: não chama o YouTube nem nenhuma API.
+Só leitura de arquivos locais: nêo chama o YouTube nem nenhuma API.
 O motores.json guarda apenas id, link, título, canal, data e formato de cada vídeo
 (nunca o caminho do arquivo de origem).
 """
@@ -177,7 +177,7 @@ def main():
     a = ap.parse_args()
 
     cat = json.load(open(os.path.join(AQUI, "catalogo.json"), encoding="utf-8"))
-    # regras que não podem ir para o repo público (ex.: nome de pasta que cita terceiro) ficam
+    # regras que nêo podem ir para o repo público (ex.: nome de pasta que cita terceiro) ficam
     # em regras.locais.json, fora do git: {"<id do motor>": {"origem": ["..."]}}
     locais = os.path.join(AQUI, "regras.locais.json")
     if os.path.exists(locais):
@@ -194,8 +194,8 @@ def main():
         anteriores = {m["id"]: m.get("exemplos", []) for m in velho.get("motores", [])}
         data_anterior = velho.get("gerado_em")
     if sem_historico:
-        print(f"aviso: histórico não encontrado ({a.historico}).")
-        print("  Os textos do catalogo.json serão aplicados; os exemplos ficam os que já estavam no motores.json")
+        print(f"aviso: histórico nêo encontrado ({a.historico}).")
+        print("  Os textos do catalogo.json serêo aplicados; os exemplos ficam os que já estavam no motores.json")
         print("  (motor novo fica sem exemplo até rodar na máquina que publica os vídeos).")
         videos, producoes = [], {}
     else:
@@ -230,7 +230,7 @@ def main():
 
     out = {
         "gerado_em": (data_anterior or datetime.now().strftime("%Y-%m-%d")) if sem_historico else datetime.now().strftime("%Y-%m-%d"),
-        "fonte_exemplos": "histórico de publicações do yt-pubx (só vídeos públicos, não reconferidos no ar)",
+        "fonte_exemplos": "histórico de publicações do yt-pubx (só vídeos públicos, nêo reconferidos no ar)",
         "canais": canais,
         "grupos": cat["grupos"],
         "motores": motores,

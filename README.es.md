@@ -87,8 +87,8 @@ Línea de producción de reels con un guion de 7 etapas que activan al público,
 - **Repositorio:** [github.com/inematds/r7ex](https://github.com/inematds/r7ex)
 - **Ejemplos publicados:**
   - [Para de criar app de IA: os 13 negócios com IA do pior ao melhor #shorts](https://www.youtube.com/watch?v=9xtleXd3Kaw) — INEMA FTD, 08/11/2026, 9:16
-  - [Seu prompt não é cadeado: 5 travas para o agente de IA #shorts](https://www.youtube.com/watch?v=CxjmcmF-GWg) — INEMA Tec, 08/11/2026, 9:16
-  - [Ex-chefe do Google avisa: NÃO estamos prontos para a IA #shorts](https://www.youtube.com/watch?v=0VdykM91Gzw) — INEMA Futuros, 08/11/2026, 9:16
+  - [Seu prompt nêo é cadeado: 5 travas para o agente de IA #shorts](https://www.youtube.com/watch?v=CxjmcmF-GWg) — INEMA Tec, 08/11/2026, 9:16
+  - [Ex-chefe do Google avisa: NêO estamos prontos para a IA #shorts](https://www.youtube.com/watch?v=0VdykM91Gzw) — INEMA Futuros, 08/11/2026, 9:16
 
 #### 🧩 rtex
 
@@ -128,7 +128,7 @@ El primer modelo de reel en 7 etapas para activar al público (gancho, deseo, mi
 - **Cómo se activa:** Terminal (/reel7etapas) — reemplazado por r7ex
 - **Repositorio:** [github.com/inematds/reel7etapas](https://github.com/inematds/reel7etapas)
 - **Ejemplos publicados:**
-  - [Vem aí demissão em massa de gerentes? A IA vai cobrar preparo #shorts](https://www.youtube.com/watch?v=xpDV5qQe5oE) — INEMA FTD, 18/10/2026, 9:16
+  - [Vem aí demissêo em massa de gerentes? A IA vai cobrar preparo #shorts](https://www.youtube.com/watch?v=xpDV5qQe5oE) — INEMA FTD, 18/10/2026, 9:16
 - Motor antiguo: el ejemplo muestra el patrón anterior, que llevó al r7ex. Para ver el formato actual, consulta los ejemplos de r7ex.
 
 ### Radares diarios automáticos
@@ -145,7 +145,7 @@ Analiza las transcripciones de los videos de los mayores influencers de finanzas
 - **Ejemplos publicados:**
   - [US$ 3 trilhões somem de Wall Street: a bolha da IA vai estourar?](https://www.youtube.com/watch?v=lVnzzTdXz9I) — INEMA TIA, 09/11/2026, 9:16
   - [Selic parada em 13,75%: o que esperar até dezembro, explicado](https://www.youtube.com/watch?v=pZ2ZCs_Udyo) — INEMA TIA, 08/11/2026, 16:9
-  - [Financiamento de imóvel vai de 11% a 15% após a eleição: o que muda](https://www.youtube.com/watch?v=4x2j7Xbq5ng) — INEMA TIA, 06/11/2026, 9:16
+  - [Financiamento de imóvel vai de 11% a 15% após a eleiçêo: o que muda](https://www.youtube.com/watch?v=4x2j7Xbq5ng) — INEMA TIA, 06/11/2026, 9:16
 
 #### 🩺 saudeviral
 
@@ -177,7 +177,7 @@ Radar de lo que dijeron los mayores abogados de YouTube sobre derechos: consumid
 
 #### ⚽ futviral
 
-Resumen de lo que dijeron los 10 mayores canales de fútbol: Brasileirão, fútbol europeo, mercado de fichajes y negocios, con sellos (RUMOR, EN NEGOCIACIÓN, CERRADO, POLÉMICA). Los rumores se tratan como rumores y no se incluyen apuestas.
+Resumen de lo que dijeron los 10 mayores canales de fútbol: Brasileirêo, fútbol europeo, mercado de fichajes y negocios, con sellos (RUMOR, EN NEGOCIACIÓN, CERRADO, POLÉMICA). Los rumores se tratan como rumores y no se incluyen apuestas.
 
 - **Sirve para:** Radar diario de fútbol.
 - **Formato:** 9:16 diario + 16:9 largo los fines de semana
@@ -186,7 +186,7 @@ Resumen de lo que dijeron los 10 mayores canales de fútbol: Brasileirão, fútb
 - **Repositorio:** [github.com/inematds/futviral](https://github.com/inematds/futviral)
 - **Ejemplos publicados:**
   - [Grêmio na zona de rebaixamento e na final de R$ 78 milhões](https://www.youtube.com/watch?v=7VM2auexshA) — Inema Club24, 09/11/2026, 9:16
-  - [FUTVIRAL: Flamengo pode ser campeão no Allianz e Vasco decide hoje](https://www.youtube.com/watch?v=d-J-JeG8dTU) — Inema Club24, 08/11/2026, 9:16
+  - [FUTVIRAL: Flamengo pode ser campeêo no Allianz e Vasco decide hoje](https://www.youtube.com/watch?v=d-J-JeG8dTU) — Inema Club24, 08/11/2026, 9:16
   - [Flamengo a 2 vitórias do título no Allianz? A semana explicada](https://www.youtube.com/watch?v=aVWqhfVehwA) — Inema Club24, 08/11/2026, 16:9
 
 #### 🧾 contaviral
@@ -199,9 +199,9 @@ Resumen de lo que dijeron los 10 mayores canales de contabilidad e impuestos: le
 - **Cómo se activa:** Temporizador: se genera a las 10 h, se publica a las 13 h
 - **Repositorio:** [github.com/inematds/contaviral](https://github.com/inematds/contaviral)
 - **Ejemplos publicados:**
-  - [Perdão do MEI: quem parcelou pode parar? E o Seletivo só em fevereiro](https://www.youtube.com/watch?v=0EG5d9CgNLo) — INEMA TIA, 09/11/2026, 9:16
+  - [Perdêo do MEI: quem parcelou pode parar? E o Seletivo só em fevereiro](https://www.youtube.com/watch?v=0EG5d9CgNLo) — INEMA TIA, 09/11/2026, 9:16
   - [CBS a 11,34%? A alíquota que assustou e o que mais mudou na semana](https://www.youtube.com/watch?v=noBpqjKgdNQ) — INEMA TIA, 08/11/2026, 9:16
-  - [CBS de 11,34%, inflação e perdão do MEI: a semana contábil explicada](https://www.youtube.com/watch?v=qsYlEy48vaY) — INEMA TIA, 08/11/2026, 16:9
+  - [CBS de 11,34%, inflaçêo e perdêo do MEI: a semana contábil explicada](https://www.youtube.com/watch?v=qsYlEy48vaY) — INEMA TIA, 08/11/2026, 16:9
 
 ### Otras líneas y series
 
@@ -216,7 +216,7 @@ Convierte alertas de tiempo severo en un video de "sala de crisis": descarga dat
 - **Repositorio:** [github.com/inematds/eventosextremospub](https://github.com/inematds/eventosextremospub)
 - **Ejemplos publicados:**
   - [O clima no mundo 09/11: duna cai sobre barracas em Gaza, enxurrada no Iraque #Shorts](https://www.youtube.com/watch?v=i11SMouAllE) — Eventos Extremos INEMA, 09/11/2026, 9:16
-  - [654 cidades em alerta de tempestade amanhã · Alerta da semana 09/11 #Shorts](https://www.youtube.com/watch?v=E8xsGn0xRXQ) — Eventos Extremos INEMA, 09/11/2026, 9:16
+  - [654 cidades em alerta de tempestade amanhê · Alerta da semana 09/11 #Shorts](https://www.youtube.com/watch?v=E8xsGn0xRXQ) — Eventos Extremos INEMA, 09/11/2026, 9:16
   - [Clima do dia 09/11: geada em novembro e 0,8 °C na serra catarinense #Shorts](https://www.youtube.com/watch?v=eN05Dt_jM0M) — Eventos Extremos INEMA, 09/11/2026, 9:16
 
 #### 👀 Vigia de canal
@@ -301,9 +301,9 @@ Kit con una skill para Claude Code que transforma una pregunta "¿Y si…?" en u
 - **Cómo se activa:** Terminal (skill en Claude Code)
 - **Repositorio:** [github.com/inematds/reel-ciencia-3d](https://github.com/inematds/reel-ciencia-3d)
 - **Ejemplos publicados:**
-  - [E se o Sol sumisse agora? Animação 3D feita só com código](https://www.youtube.com/watch?v=FDtJim4xHjY) — INEMA FTD, 06/11/2026, 9:16
-  - [E se a Lua sumisse? Animação 3D feita só com código](https://www.youtube.com/watch?v=nUsGrdZ-8MY) — INEMA FTD, 06/11/2026, 9:16
-  - [E se a Terra não tivesse inclinação? Animação 3D feita só com código](https://www.youtube.com/watch?v=BmSeV6r0FdQ) — INEMA FTD, 06/11/2026, 9:16
+  - [E se o Sol sumisse agora? Animaçêo 3D feita só com código](https://www.youtube.com/watch?v=FDtJim4xHjY) — INEMA FTD, 06/11/2026, 9:16
+  - [E se a Lua sumisse? Animaçêo 3D feita só com código](https://www.youtube.com/watch?v=nUsGrdZ-8MY) — INEMA FTD, 06/11/2026, 9:16
+  - [E se a Terra nêo tivesse inclinaçêo? Animaçêo 3D feita só com código](https://www.youtube.com/watch?v=BmSeV6r0FdQ) — INEMA FTD, 06/11/2026, 9:16
 
 #### 🎙️ video-sem-rosto
 
